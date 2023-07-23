@@ -1,1 +1,0 @@
-start DayZDiag_x64 -server -mod=@Bitterroot -startNavmeshDataServer -port=2302 -config=serverDZNV.cfg
