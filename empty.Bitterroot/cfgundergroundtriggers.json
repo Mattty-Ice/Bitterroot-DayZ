@@ -1,0 +1,3972 @@
+{
+    "Triggers": 
+    [
+        {
+            "_Name": "Jackson Tunnel N Outside",
+            "Position": [ 3079, 206, 7928 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 46, 12, 20 ],
+            "EyeAccommodation": 1,
+            "Breadcrumbs": [],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Jackson Tunnel N Entrance 1",
+            "Position": [ 3079, 205, 7913 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 42, 10, 10 ],
+            "EyeAccommodation": 0.6,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Jackson Tunnel N Entrance 2",
+            "Position": [ 3079, 205, 7903 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 42, 10, 10 ],
+            "EyeAccommodation": 0.4,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Jackson Tunnel N Entrance 3",
+            "Position": [ 3079, 205, 7893 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 42, 10, 10 ],
+            "EyeAccommodation": 0.25,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Jackson Tunnel N Entrance 4",
+            "Position": [ 3079, 205, 7883 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 42, 10, 10 ],
+            "EyeAccommodation": 0.15,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Jackson Tunnel N Entrance 5",
+            "Position": [ 3079, 205, 7873 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 42, 10, 10 ],
+            "EyeAccommodation": 0.08,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Jackson Tunnel N Entrance 6",
+            "Position": [ 3079, 205, 7863 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 42, 10, 10 ],
+            "EyeAccommodation": 0.04,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 0.9
+        },
+        {
+            "_Name": "Jackson Tunnel N Entrance 7",
+            "Position": [ 3079, 205, 7851 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 42, 10, 14 ],
+            "EyeAccommodation": 0.02,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 0.9
+        },
+        {
+            "_Name": "Jackson Tunnel N Entrance 8",
+            "Position": [ 3079, 205, 7842 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 42, 10, 4 ],
+            "EyeAccommodation": 0.019,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 0.9
+        },
+        {
+            "_Name": "Jackson Tunnel N Entrance 9",
+            "Position": [ 3079, 205, 7838 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 42, 10, 4 ],
+            "EyeAccommodation": 0.018,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 0.9
+        },
+        {
+            "_Name": "Jackson Tunnel N Entrance 10",
+            "Position": [ 3079, 205, 7834 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 42, 10, 4 ],
+            "EyeAccommodation": 0.017,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 0.9
+        },
+        {
+            "_Name": "Jackson Tunnel N Entrance 11",
+            "Position": [ 3079, 205, 7830 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 42, 10, 4 ],
+            "EyeAccommodation": 0.016,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 0.9
+        },
+        {
+            "_Name": "Jackson Tunnel N Entrance 12",
+            "Position": [ 3079, 205, 7826 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 42, 10, 4 ],
+            "EyeAccommodation": 0.015,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 0.9
+        },
+        {
+            "_Name": "Jackson Tunnel N Entrance 13",
+            "Position": [ 3079, 205, 7822 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 42, 10, 4 ],
+            "EyeAccommodation": 0.014,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 0.9
+        },
+        {
+            "_Name": "Jackson Tunnel N Entrance 14",
+            "Position": [ 3079, 205, 7818 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 42, 10, 4 ],
+            "EyeAccommodation": 0.013,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 0.9
+        },
+        {
+            "_Name": "Jackson Tunnel N Entrance 15",
+            "Position": [ 3079, 205, 7814 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 42, 10, 4 ],
+            "EyeAccommodation": 0.012,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 0.9
+        },
+        {
+            "_Name": "Jackson Tunnel N Entrance 16",
+            "Position": [ 3079, 205, 7810 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 42, 10, 4 ],
+            "EyeAccommodation": 0.011,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 0.9
+        },
+
+        {
+            "_Name": "Jackson Tunnel N",
+            "Position": [ 3079, 205, 7726 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 42, 10, 164 ],
+            "EyeAccommodation": 0.01,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 0.8
+        },
+        {
+            "_Name": "Jackson Tunnel Mid",
+            "Position": [ 3077.5, 205, 7634 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 39, 10, 20 ],
+            "EyeAccommodation": 0.01,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 0.8
+        },
+        {
+            "_Name": "Jackson Tunnel S",
+            "Position": [ 3079, 205, 7525.5 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 42, 10, 197 ],
+            "EyeAccommodation": 0.01,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 0.8
+        },
+        {
+            "_Name": "Jackson Tunnel S Outside",
+            "Position": [ 3079, 206, 7251 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 46, 12, 20 ],
+            "EyeAccommodation": 1,
+            "Breadcrumbs": [],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Jackson Tunnel S Entrance 1",
+            "Position": [ 3079, 205, 7266 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 42, 10, 10 ],
+            "EyeAccommodation": 0.6,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Jackson Tunnel S Entrance 2",
+            "Position": [ 3079, 205, 7276 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 42, 10, 10 ],
+            "EyeAccommodation": 0.4,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Jackson Tunnel S Entrance 3",
+            "Position": [ 3079, 205, 7286 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 42, 10, 10 ],
+            "EyeAccommodation": 0.25,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Jackson Tunnel S Entrance 4",
+            "Position": [ 3079, 205, 7296 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 42, 10, 10 ],
+            "EyeAccommodation": 0.15,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Jackson Tunnel S Entrance 5",
+            "Position": [ 3079, 205, 7306 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 42, 10, 10 ],
+            "EyeAccommodation": 0.08,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Jackson Tunnel S Entrance 6",
+            "Position": [ 3079, 205, 7316 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 42, 10, 10 ],
+            "EyeAccommodation": 0.04,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Jackson Tunnel S Entrance 7",
+            "Position": [ 3079, 205, 7328 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 42, 10, 14 ],
+            "EyeAccommodation": 0.02,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 0.9
+        },
+        {
+            "_Name": "Jackson Tunnel S Entrance 8",
+            "Position": [ 3079, 205, 7337 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 42, 10, 4 ],
+            "EyeAccommodation": 0.019,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 0.9
+        },
+        {
+            "_Name": "Jackson Tunnel S Entrance 9",
+            "Position": [ 3079, 205, 7341 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 42, 10, 4 ],
+            "EyeAccommodation": 0.018,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 0.9
+        },
+        {
+            "_Name": "Jackson Tunnel S Entrance 10",
+            "Position": [ 3079, 205, 7345 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 42, 10, 4 ],
+            "EyeAccommodation": 0.017,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 0.9
+        },
+        {
+            "_Name": "Jackson Tunnel S Entrance 11",
+            "Position": [ 3079, 205, 7349 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 42, 10, 4 ],
+            "EyeAccommodation": 0.016,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 0.9
+        },
+        {
+            "_Name": "Jackson Tunnel S Entrance 12",
+            "Position": [ 3079, 205, 7353 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 42, 10, 4 ],
+            "EyeAccommodation": 0.015,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 0.9
+        },
+        {
+            "_Name": "Jackson Tunnel S Entrance 13",
+            "Position": [ 3079, 205, 7357 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 42, 10, 4 ],
+            "EyeAccommodation": 0.014,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 0.9
+        },
+        {
+            "_Name": "Jackson Tunnel S Entrance 14",
+            "Position": [ 3079, 205, 7361 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 42, 10, 4 ],
+            "EyeAccommodation": 0.013,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 0.9
+        },
+        {
+            "_Name": "Jackson Tunnel S Entrance 15",
+            "Position": [ 3079, 205, 7365 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 42, 10, 4 ],
+            "EyeAccommodation": 0.012,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 0.9
+        },
+        {
+            "_Name": "Jackson Tunnel S Entrance 16",
+            "Position": [ 3079, 205, 7369 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 42, 10, 4 ],
+            "EyeAccommodation": 0.011,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 0.9
+        },
+        {
+            "_Name": "Jackson Tunnel S Entrance 17",
+            "Position": [ 3077.25, 205, 7399 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 38.5, 10, 56 ],
+            "EyeAccommodation": 0.01,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 0.9
+        },
+
+
+
+
+
+        {
+            "_Name": "Jackson Tunnel Workshop Outside",
+            "Position": [ 3110, 219, 7865 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 20, 10, 20 ],
+            "EyeAccommodation": 1,
+            "Breadcrumbs": [],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Jackson Tunnel Workshop Exit 1",
+            "Position": [ 3110, 209.5, 7863 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 14, 3, 16 ],
+            "EyeAccommodation": 0.25,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 0.9
+        },
+        {
+            "_Name": "Jackson Tunnel Workshop Exit 2",
+            "Position": [ 3110, 212.5, 7863 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 14, 3, 16 ],
+            "EyeAccommodation": 0.4,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Jackson Tunnel Workshop",
+            "Position": [ 3109, 204, 7880 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 18, 8, 20 ],
+            "EyeAccommodation": 0.02,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 0.9
+        },
+        {
+            "_Name": "Jackson Tunnel Workshop Stairs Top",
+            "Position": [ 3109, 206, 7863 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 18, 4, 14 ],
+            "EyeAccommodation": 0.15,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Jackson Tunnel Workshop Stairs Bottom",
+            "Position": [ 3109, 202, 7863 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 18, 4, 14 ],
+            "EyeAccommodation": 0.04,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Jackson Tunnel Workshop Back 1",
+            "Position": [ 3109, 204, 7849 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 18, 8, 14 ],
+            "EyeAccommodation": 0.02,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 0.8
+        },
+        {
+            "_Name": "Jackson Tunnel Workshop Back 2",
+            "Position": [ 3109, 204, 7835.5 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 18, 8, 13 ],
+            "EyeAccommodation": 0.01,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 0.8
+        },
+        {
+            "_Name": "Jackson Tunnel Warehouse Outside",
+            "Position": [ 3114, 216, 7634 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 8, 10, 20 ],
+            "EyeAccommodation": 1,
+            "Breadcrumbs": [],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Jackson Tunnel Warehouse OUT 1",
+            "Position": [ 3111.25, 206.5, 7639.5 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 16.5, 3, 9 ],
+            "EyeAccommodation": 0.25,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Jackson Tunnel Warehouse OUT 2",
+            "Position": [ 3111.25, 209.5, 7635 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 16.5, 3, 18 ],
+            "EyeAccommodation": 0.5,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Jackson Tunnel Warehouse Exit 1",
+            "Position": [ 3111.5, 203, 7639.5 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 17, 4, 9 ],
+            "EyeAccommodation": 0.08,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Jackson Tunnel Warehouse Exit 2",
+            "Position": [ 3111.25, 204.5, 7631 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 16.5, 7, 8 ],
+            "EyeAccommodation": 0.04,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Jackson Tunnel Warehouse Main Tunnel Entrance 1",
+            "Position": [ 3101.5, 206, 7633 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 3, 10, 4 ],
+            "EyeAccommodation": 0.03,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Jackson Tunnel Warehouse Main Tunnel Entrance 2",
+            "Position": [ 3098.5, 206, 7633 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 3, 10, 4 ],
+            "EyeAccommodation": 0.015,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Jackson Tunnel Warehouse 1",
+            "Position": [ 3110, 206, 7648 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 20, 10, 8 ],
+            "EyeAccommodation": 0.04,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Jackson Tunnel Warehouse 2",
+            "Position": [ 3110, 206, 7665 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 20, 10, 26 ],
+            "EyeAccommodation": 0.02,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 0.8
+        },
+        {
+            "_Name": "Jackson Tunnel Warehouse 3",
+            "Position": [ 3110, 206, 7682 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 20, 10, 8 ],
+            "EyeAccommodation": 0.01,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 0.8
+        },
+        {
+            "_Name": "Jackson Inner Tunnel N Outside",
+            "Position": [ 3114, 215, 7429 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 10, 10, 20 ],
+            "EyeAccommodation": 1,
+            "Breadcrumbs": [],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Jackson Inner Tunnel N Entrance 1",
+            "Position": [ 3108, 203.5, 7433 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 16, 3, 12 ],
+            "EyeAccommodation": 0.15,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Jackson Inner Tunnel N Entrance 2",
+            "Position": [ 3108, 203.5, 7444.5 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 16, 3, 11 ],
+            "EyeAccommodation": 0.08,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Jackson Inner Tunnel N Entrance 3",
+            "Position": [ 3109.75, 203.5, 7422.5 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 12.5, 3, 9 ],
+            "EyeAccommodation": 0.08,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Jackson Inner Tunnel N Entrance OUT 1",
+            "Position": [ 3109.75, 206.5, 7434 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 12.5, 3, 32 ],
+            "EyeAccommodation": 0.4,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Jackson Inner Tunnel N Entrance OUT 2",
+            "Position": [ 3109.75, 209, 7434 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 12.5, 2, 32 ],
+            "EyeAccommodation": 0.6,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Jackson Inner Tunnel N Main Tunnel Entrance 1",
+            "Position": [ 3101.75, 205, 7422.5 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 3.5, 6, 9 ],
+            "EyeAccommodation": 0.04,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Jackson Inner Tunnel N Main Tunnel Entrance 2",
+            "Position": [ 3098.25, 205, 7422.5 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 3.5, 6, 9 ],
+            "EyeAccommodation": 0.02,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Jackson Inner Tunnel Inside 1",
+            "Position": [ 3110, 205, 7292 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 8, 9, 4 ],
+            "EyeAccommodation": 0.08,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Jackson Inner Tunnel Inside 2",
+            "Position": [ 3110, 205, 7297 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 8, 9, 6 ],
+            "EyeAccommodation": 0.04,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Jackson Inner Tunnel Inside 3",
+            "Position": [ 3110, 205, 7304 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 8, 9, 8 ],
+            "EyeAccommodation": 0.02,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Jackson Inner Tunnel Inside Middle",
+            "Position": [ 3110, 205, 7356 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 8, 9, 96 ],
+            "EyeAccommodation": 0.0,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 0.9
+        },
+        {
+            "_Name": "Jackson Inner Tunnel Inside 4",
+            "Position": [ 3110, 205, 7406 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 8, 9, 4 ],
+            "EyeAccommodation": 0.02,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Jackson Inner Tunnel Inside 5",
+            "Position": [ 3110, 205, 7410 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 8, 9, 4 ],
+            "EyeAccommodation": 0.04,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Jackson Inner Tunnel Inside 6",
+            "Position": [ 3110, 205, 7415 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 8, 9, 6 ],
+            "EyeAccommodation": 0.08,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Jackson Inner Tunnel S Entrance 1",
+            "Position": [ 3104.75, 205, 7286 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 5.5, 9, 8 ],
+            "EyeAccommodation": 0.25,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Jackson Inner Tunnel S Entrance 2",
+            "Position": [ 3110.75, 205, 7286 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 6.5, 9, 8 ],
+            "EyeAccommodation": 0.15,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Jackson Inner Tunnel S Exit",
+            "Position": [ 3106, 205, 7276 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 12, 9, 12 ],
+            "EyeAccommodation": 0.4,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Jackson Inner Tunnel S Outside",
+            "Position": [ 3109, 215, 7276 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 14, 12, 16 ],
+            "EyeAccommodation": 1,
+            "Breadcrumbs": [],
+            "InterpolationSpeed": 1
+        },
+
+
+        {
+            "_Name": "Falcon Rock Top Outside",
+            "Position": [ 939, 305, 10581 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 12, 6, 8 ],
+            "EyeAccommodation": 1,
+            "Breadcrumbs": [],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Falcon Rock Exit 1",
+            "Position": [ 941, 300.5, 10581 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 6, 3, 8 ],
+            "EyeAccommodation": 0.6,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Falcon Rock Exit 2",
+            "Position": [ 941, 298, 10581 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 6, 2, 8 ],
+            "EyeAccommodation": 0.4,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Falcon Rock Exit 3",
+            "Position": [ 941, 296, 10581 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 6, 2, 8 ],
+            "EyeAccommodation": 0.25,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Falcon Rock Exit 4",
+            "Position": [ 941, 294, 10581 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 6, 2, 8 ],
+            "EyeAccommodation": 0.15,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Falcon Rock Exit 5",
+            "Position": [ 941, 292, 10581 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 6, 2, 8 ],
+            "EyeAccommodation": 0.08,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Falcon Rock Exit 6",
+            "Position": [ 941, 290, 10581 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 6, 2, 8 ],
+            "EyeAccommodation": 0.04,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Falcon Rock Exit 7",
+            "Position": [ 941, 288, 10581 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 6, 2, 8 ],
+            "EyeAccommodation": 0.02,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Falcon Rock Exit 8",
+            "Position": [ 941, 279, 10581 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 6, 16, 8 ],
+            "EyeAccommodation": 0.0,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Falcon Rock Mid",
+            "Position": [ 935, 250, 10558 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 160, 42, 148 ],
+            "EyeAccommodation": 0.0,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Falcon Rock Bottom",
+            "Position": [ 944, 219, 10536.5 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 116, 20, 127 ],
+            "EyeAccommodation": 0.0,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Falcon Rock Tunnel N Outside",
+            "Position": [ 989, 221, 10715 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 36, 16, 20 ],
+            "EyeAccommodation": 1.0,
+            "Breadcrumbs": [],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Falcon Rock Tunnel N 1",
+            "Position": [ 989, 221, 10702 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 24, 16, 6 ],
+            "EyeAccommodation": 0.6,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Falcon Rock Tunnel N 2",
+            "Position": [ 989, 221, 10694 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 24, 16, 10 ],
+            "EyeAccommodation": 0.4,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Falcon Rock Tunnel N 3",
+            "Position": [ 989, 221, 10684 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 24, 16, 10 ],
+            "EyeAccommodation": 0.25,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Falcon Rock Tunnel N 4",
+            "Position": [ 989, 221, 10674 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 24, 16, 10 ],
+            "EyeAccommodation": 0.15,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Falcon Rock Tunnel N 5",
+            "Position": [ 989, 221, 10664 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 24, 16, 10 ],
+            "EyeAccommodation": 0.08,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Falcon Rock Tunnel N 6",
+            "Position": [ 989, 221, 10654 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 24, 16, 10 ],
+            "EyeAccommodation": 0.02,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Falcon Rock Tunnel N 7",
+            "Position": [ 989, 221, 10646 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 24, 16, 6 ],
+            "EyeAccommodation": 0.004,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Falcon Rock Tunnel N END",
+            "Position": [ 989, 221, 10621.5 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 24, 16, 43 ],
+            "EyeAccommodation": 0.0,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Falcon Rock Tunnel W Outside",
+            "Position": [ 667, 221, 10504 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 10, 16, 40 ],
+            "EyeAccommodation": 1,
+            "Breadcrumbs": [],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Falcon Rock Tunnel W 1",
+            "Position": [ 675, 221, 10501 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 6, 16, 26 ],
+            "EyeAccommodation": 0.6,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Falcon Rock Tunnel W 2",
+            "Position": [ 683, 221, 10501 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 10, 16, 26 ],
+            "EyeAccommodation": 0.4,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Falcon Rock Tunnel W 3",
+            "Position": [ 693, 221, 10501 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 10, 16, 26 ],
+            "EyeAccommodation": 0.25,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Falcon Rock Tunnel W 4",
+            "Position": [ 703, 221, 10501 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 10, 16, 26 ],
+            "EyeAccommodation": 0.15,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Falcon Rock Tunnel W 5",
+            "Position": [ 713, 221, 10501 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 10, 16, 26 ],
+            "EyeAccommodation": 0.08,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Falcon Rock Tunnel W 6",
+            "Position": [ 723, 221, 10501 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 10, 16, 26 ],
+            "EyeAccommodation": 0.02,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Falcon Rock Tunnel W 7",
+            "Position": [ 733, 221, 10501 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 10, 16, 26 ],
+            "EyeAccommodation": 0.01,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Falcon Rock Tunnel W 8",
+            "Position": [ 743, 221, 10501 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 10, 16, 26 ],
+            "EyeAccommodation": 0.004,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Falcon Rock Tunnel W 9",
+            "Position": [ 753, 221, 10501 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 10, 16, 26 ],
+            "EyeAccommodation": 0.002,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Falcon Rock Tunnel W 10",
+            "Position": [ 761, 221, 10501 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 6, 16, 26 ],
+            "EyeAccommodation": 0.001,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Falcon Rock Tunnel W End",
+            "Position": [ 825, 221, 10501 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 122, 16, 26 ],
+            "EyeAccommodation": 0.0,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Falcon Rock Tunnel S Outside",
+            "Position": [ 972, 221, 10242 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 32, 16, 10 ],
+            "EyeAccommodation": 1,
+            "Breadcrumbs": [],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Falcon Rock Tunnel S 1",
+            "Position": [ 980, 221, 10252 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 40, 16, 10 ],
+            "EyeAccommodation": 0.6,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Falcon Rock Tunnel S 2",
+            "Position": [ 980, 221, 10262 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 40, 16, 10 ],
+            "EyeAccommodation": 0.4,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Falcon Rock Tunnel S 3",
+            "Position": [ 980, 221, 10272 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 40, 16, 10 ],
+            "EyeAccommodation": 0.25,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Falcon Rock Tunnel S 4",
+            "Position": [ 980, 221, 10282 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 40, 16, 10 ],
+            "EyeAccommodation": 0.15,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Falcon Rock Tunnel S 5",
+            "Position": [ 980, 221, 10292 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 40, 16, 10 ],
+            "EyeAccommodation": 0.08,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Falcon Rock Tunnel S 6",
+            "Position": [ 980, 221, 10302 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 40, 16, 10 ],
+            "EyeAccommodation": 0.02,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Falcon Rock Tunnel S END",
+            "Position": [ 980, 221, 10390 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 40, 16, 166 ],
+            "EyeAccommodation": 0.0,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Falcon Rock Tunnel E Outside",
+            "Position": [ 1197, 221, 10539 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 10, 16, 30 ],
+            "EyeAccommodation": 1,
+            "Breadcrumbs": [],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Falcon Rock Tunnel E 1",
+            "Position": [ 1187, 221, 10539 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 10, 16, 24 ],
+            "EyeAccommodation": 0.6,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Falcon Rock Tunnel E 2",
+            "Position": [ 1177, 221, 10539 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 10, 16, 24 ],
+            "EyeAccommodation": 0.4,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Falcon Rock Tunnel E 3",
+            "Position": [ 1167, 221, 10539 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 10, 16, 24 ],
+            "EyeAccommodation": 0.25,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Falcon Rock Tunnel E 4",
+            "Position": [ 1157, 221, 10539 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 10, 16, 24 ],
+            "EyeAccommodation": 0.15,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Falcon Rock Tunnel E 5",
+            "Position": [ 1147, 221, 10539 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 10, 16, 24 ],
+            "EyeAccommodation": 0.08,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Falcon Rock Tunnel E 6",
+            "Position": [ 1137, 221, 10539 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 10, 16, 24 ],
+            "EyeAccommodation": 0.02,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Falcon Rock Tunnel E END",
+            "Position": [ 1067, 221, 10539 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 130, 16, 24 ],
+            "EyeAccommodation": 0.0,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Delta 1 Stairs Outside",
+            "Position": [ 1453.0, 217.5, 9557.0 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 10, 3, 12 ],
+            "EyeAccommodation": 1,
+            "Breadcrumbs": [],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Delta 1 Stairs 1",
+            "Position": [ 1453.0, 214.8, 9557.0 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 8, 2.4, 10 ],
+            "EyeAccommodation": 0.8,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Delta 1 Stairs 2",
+            "Position": [ 1453.0, 212.4, 9557.0 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 8, 2.4, 10 ],
+            "EyeAccommodation": 0.6,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Delta 1 Stairs 3",
+            "Position": [ 1453.0, 210.1, 9557.0 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 8, 2.2, 10 ],
+            "EyeAccommodation": 0.4,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Delta 1 Stairs 4",
+            "Position": [ 1453.0, 207.8, 9557.0 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 8, 2.4, 10 ],
+            "EyeAccommodation": 0.25,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Delta 1 Stairs 5",
+            "Position": [ 1453.0, 205.4, 9557.0 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 8, 2.4, 10 ],
+            "EyeAccommodation": 0.15,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Delta 1 Stairs 6",
+            "Position": [ 1453.0, 203.05, 9557.0 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 8, 2.3, 10 ],
+            "EyeAccommodation": 0.08,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Delta 1 Stairs 7",
+            "Position": [ 1453.0, 200.75, 9557.0 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 8, 2.3, 10 ],
+            "EyeAccommodation": 0.02,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Delta 1 Stairs 8",
+            "Position": [ 1453.0, 195.8, 9557.0 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 8, 7.6, 10 ],
+            "EyeAccommodation": 0.0,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Delta 1 Ladder Outside",
+            "Position": [ 1509.0, 217.5, 9553.0 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 10, 3, 10 ],
+            "EyeAccommodation": 1,
+            "Breadcrumbs": [],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Delta 1 Ladder 1",
+            "Position": [ 1509.0, 215, 9553.0 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 6, 2, 6 ],
+            "EyeAccommodation": 0.8,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Delta 1 Ladder 2",
+            "Position": [ 1509.0, 213, 9553.0 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 6, 2, 6 ],
+            "EyeAccommodation": 0.6,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Delta 1 Ladder 3",
+            "Position": [ 1509.0, 211, 9553.0 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 6, 2, 6 ],
+            "EyeAccommodation": 0.4,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Delta 1 Ladder 4",
+            "Position": [ 1509.0, 209, 9553.0 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 6, 2, 6 ],
+            "EyeAccommodation": 0.25,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Delta 1 Ladder 5",
+            "Position": [ 1509.0, 207, 9553.0 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 6, 2, 6 ],
+            "EyeAccommodation": 0.15,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Delta 1 Ladder 6",
+            "Position": [ 1509.0, 205, 9553.0 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 6, 2, 6 ],
+            "EyeAccommodation": 0.08,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Delta 1 Ladder 7",
+            "Position": [ 1509.0, 202, 9553.0 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 6, 4, 6 ],
+            "EyeAccommodation": 0.02,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Delta 1 Ladder 8",
+            "Position": [ 1509.0, 196, 9553.0 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 6, 8, 6 ],
+            "EyeAccommodation": 0.0,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Delta 1 Silo",
+            "Position": [ 1480.0, 182.0, 9552.0 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 64, 20, 20 ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Delta 2 Stairs Outside",
+            "Position": [ 1926, 204.5, 9226 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 10, 4, 12 ],
+            "EyeAccommodation": 1,
+            "Breadcrumbs": [],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Delta 2 Stairs 1",
+            "Position": [ 1926.0, 201.3, 9226.0 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 6, 2.4, 8 ],
+            "EyeAccommodation": 0.8,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Delta 2 Stairs 2",
+            "Position": [ 1926.0, 198.9, 9226.0 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 6, 2.4, 8 ],
+            "EyeAccommodation": 0.6,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Delta 2 Stairs 3",
+            "Position": [ 1926.0, 196.5, 9226.0 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 6, 2.4, 8 ],
+            "EyeAccommodation": 0.4,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Delta 2 Stairs 4",
+            "Position": [ 1926.0, 194.15, 9226.0 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 6, 2.3, 8 ],
+            "EyeAccommodation": 0.25,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Delta 2 Stairs 5",
+            "Position": [ 1926.0, 191.8, 9226.0 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 6, 2.4, 8 ],
+            "EyeAccommodation": 0.15,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Delta 2 Stairs 6",
+            "Position": [ 1926.0, 189.4, 9226.0 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 6, 2.4, 8 ],
+            "EyeAccommodation": 0.08,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Delta 2 Stairs 7",
+            "Position": [ 1926.0, 187.05, 9226.0 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 6, 2.3, 8 ],
+            "EyeAccommodation": 0.02,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Delta 2 Stairs 8",
+            "Position": [ 1926.0, 182.95, 9226.0 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 6, 5.9, 8 ],
+            "EyeAccommodation": 0.0,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Delta 2 Ladder Outside",
+            "Position": [ 1871, 204.5, 9232 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 10, 4, 10 ],
+            "EyeAccommodation": 1,
+            "Breadcrumbs": [],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Delta 2 Ladder 1",
+            "Position": [ 1871, 201.5, 9232 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 6, 2, 6 ],
+            "EyeAccommodation": 0.8,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Delta 2 Ladder 2",
+            "Position": [ 1871, 199.5, 9232 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 6, 2, 6 ],
+            "EyeAccommodation": 0.6,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Delta 2 Ladder 3",
+            "Position": [ 1871, 197.5, 9232 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 6, 2, 6 ],
+            "EyeAccommodation": 0.4,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Delta 2 Ladder 4",
+            "Position": [ 1871, 195.5, 9232 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 6, 2, 6 ],
+            "EyeAccommodation": 0.25,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Delta 2 Ladder 5",
+            "Position": [ 1871, 193.5, 9232 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 6, 2, 6 ],
+            "EyeAccommodation": 0.15,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Delta 2 Ladder 6",
+            "Position": [ 1871, 191.5, 9232 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 6, 2, 6 ],
+            "EyeAccommodation": 0.08,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Delta 2 Ladder 7",
+            "Position": [ 1871, 188.5, 9232 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 6, 4, 6 ],
+            "EyeAccommodation": 0.02,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Delta 2 Ladder 8",
+            "Position": [ 1871, 183.25, 9232 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 6, 6.5, 6 ],
+            "EyeAccommodation": 0.0,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Delta 2 Silo",
+            "Position": [ 1900, 170, 9232 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 64, 20, 20 ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Delta 3 Stairs Outside",
+            "Position": [ 2858, 372, 9842 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 12, 4, 10 ],
+            "EyeAccommodation": 1,
+            "Breadcrumbs": [],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Delta 3 Stairs 1",
+            "Position": [ 2858, 368.8, 9842 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 10, 2.4, 6 ],
+            "EyeAccommodation": 0.8,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Delta 3 Stairs 2",
+            "Position": [ 2858, 366.45, 9842 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 10, 2.3, 6 ],
+            "EyeAccommodation": 0.6,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Delta 3 Stairs 3",
+            "Position": [ 2858, 364.1, 9842 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 10, 2.4, 6 ],
+            "EyeAccommodation": 0.4,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Delta 3 Stairs 4",
+            "Position": [ 2858, 361.7, 9842 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 10, 2.4, 6 ],
+            "EyeAccommodation": 0.25,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Delta 3 Stairs 5",
+            "Position": [ 2858, 359.35, 9842 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 10, 2.3, 6 ],
+            "EyeAccommodation": 0.15,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Delta 3 Stairs 6",
+            "Position": [ 2858, 357.05, 9842 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 10, 2.3, 6 ],
+            "EyeAccommodation": 0.08,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Delta 3 Stairs 7",
+            "Position": [ 2858, 354.7, 9842 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 10, 2.4, 6 ],
+            "EyeAccommodation": 0.02,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Delta 3 Stairs 8",
+            "Position": [ 2858, 350.25, 9842 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 10, 6.5, 6 ],
+            "EyeAccommodation": 0.0,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Delta 3 Ladder Outside",
+            "Position": [ 2863, 372, 9896 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 10, 4, 10 ],
+            "EyeAccommodation": 1,
+            "Breadcrumbs": [],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Delta 3 Ladder 1",
+            "Position": [ 2863, 369, 9896 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 6, 2, 6 ],
+            "EyeAccommodation": 0.8,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Delta 3 Ladder 2",
+            "Position": [ 2863, 367, 9896 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 6, 2, 6 ],
+            "EyeAccommodation": 0.6,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Delta 3 Ladder 3",
+            "Position": [ 2863, 365, 9896 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 6, 2, 6 ],
+            "EyeAccommodation": 0.4,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Delta 3 Ladder 4",
+            "Position": [ 2863, 363, 9896 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 6, 2, 6 ],
+            "EyeAccommodation": 0.25,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Delta 3 Ladder 5",
+            "Position": [ 2863, 361, 9896 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 6, 2, 6 ],
+            "EyeAccommodation": 0.15,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Delta 3 Ladder 6",
+            "Position": [ 2863, 359, 9896 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 6, 2, 6 ],
+            "EyeAccommodation": 0.08,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Delta 3 Ladder 7",
+            "Position": [ 2863, 356, 9896 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 6, 4, 6 ],
+            "EyeAccommodation": 0.02,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Delta 3 Ladder 8",
+            "Position": [ 2863, 350.5, 9896 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 6, 7, 6 ],
+            "EyeAccommodation": 0.0,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Delta 3 Silo",
+            "Position": [ 2861, 337, 9869 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 22, 20, 64 ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Delta 4 Stairs Outside",
+            "Position": [ 3026, 372, 10366 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 10, 4, 12 ],
+            "EyeAccommodation": 1,
+            "Breadcrumbs": [],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Delta 4 Stairs 1",
+            "Position": [ 3026, 368.7, 10366 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 6, 2.4, 10 ],
+            "EyeAccommodation": 0.8,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Delta 4 Stairs 2",
+            "Position": [ 3026, 366.35, 10366 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 6, 2.3, 10 ],
+            "EyeAccommodation": 0.6,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Delta 4 Stairs 3",
+            "Position": [ 3026, 364, 10366 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 6, 2.4, 10 ],
+            "EyeAccommodation": 0.4,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Delta 4 Stairs 4",
+            "Position": [ 3026, 361.6, 10366 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 6, 2.4, 10 ],
+            "EyeAccommodation": 0.25,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Delta 4 Stairs 5",
+            "Position": [ 3026, 359.25, 10366 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 6, 2.3, 10 ],
+            "EyeAccommodation": 0.15,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Delta 4 Stairs 6",
+            "Position": [ 3026, 356.95, 10366 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 6, 2.3, 10 ],
+            "EyeAccommodation": 0.08,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Delta 4 Stairs 7",
+            "Position": [ 3026, 354.6, 10366 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 6, 2.4, 10 ],
+            "EyeAccommodation": 0.02,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Delta 4 Stairs 8",
+            "Position": [ 3026, 350.2, 10366 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 6, 6.4, 10 ],
+            "EyeAccommodation": 0.0,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Delta 4 Ladder Outside",
+            "Position": [ 2971, 372, 10373 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 10, 4, 10 ],
+            "EyeAccommodation": 1,
+            "Breadcrumbs": [],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Delta 4 Ladder 1",
+            "Position": [ 2971, 369, 10373 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 6, 2, 6 ],
+            "EyeAccommodation": 0.8,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Delta 4 Ladder 2",
+            "Position": [ 2971, 367, 10373 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 6, 2, 6 ],
+            "EyeAccommodation": 0.6,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Delta 4 Ladder 3",
+            "Position": [ 2971, 365, 10373 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 6, 2, 6 ],
+            "EyeAccommodation": 0.4,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Delta 4 Ladder 4",
+            "Position": [ 2971, 363, 10373 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 6, 2, 6 ],
+            "EyeAccommodation": 0.25,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Delta 4 Ladder 5",
+            "Position": [ 2971, 361, 10373 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 6, 2, 6 ],
+            "EyeAccommodation": 0.15,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Delta 4 Ladder 6",
+            "Position": [ 2971, 359, 10373 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 6, 2, 6 ],
+            "EyeAccommodation": 0.08,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Delta 4 Ladder 7",
+            "Position": [ 2971, 356, 10373 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 6, 4, 6 ],
+            "EyeAccommodation": 0.02,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Delta 4 Ladder 8",
+            "Position": [ 2971, 350.5, 10373 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 6, 7, 6 ],
+            "EyeAccommodation": 0.0,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Delta 4 Silo",
+            "Position": [ 3000, 337, 10372 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 64, 20, 22 ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Delta 5 Stairs Outside",
+            "Position": [ 1236, 492.5, 11838 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 10, 4, 12 ],
+            "EyeAccommodation": 1,
+            "Breadcrumbs": [],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Delta 5 Stairs 1",
+            "Position": [ 1236, 489.3, 11838 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 8, 2.4, 10 ],
+            "EyeAccommodation": 0.8,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Delta 5 Stairs 2",
+            "Position": [ 1236, 486.9, 11838 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 8, 2.4, 10 ],
+            "EyeAccommodation": 0.6,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Delta 5 Stairs 3",
+            "Position": [ 1236, 484.55, 11838 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 8, 2.3, 10 ],
+            "EyeAccommodation": 0.4,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Delta 5 Stairs 4",
+            "Position": [ 1236, 482.25, 11838 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 8, 2.3, 10 ],
+            "EyeAccommodation": 0.25,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Delta 5 Stairs 5",
+            "Position": [ 1236, 479.9, 11838 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 8, 2.4, 10 ],
+            "EyeAccommodation": 0.15,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Delta 5 Stairs 6",
+            "Position": [ 1236, 477.55, 11838 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 8, 2.3, 10 ],
+            "EyeAccommodation": 0.08,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Delta 5 Stairs 7",
+            "Position": [ 1236, 475.2, 11838 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 8, 2.4, 10 ],
+            "EyeAccommodation": 0.02,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Delta 5 Stairs 8",
+            "Position": [ 1236, 470.5, 11838 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 8, 7, 10 ],
+            "EyeAccommodation": 0.0,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Delta 5 Ladder Outside",
+            "Position": [ 1182, 492.5, 11843 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 10, 4, 10 ],
+            "EyeAccommodation": 1,
+            "Breadcrumbs": [],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Delta 5 Ladder 1",
+            "Position": [ 1182, 489.5, 11843 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 6, 2, 6 ],
+            "EyeAccommodation": 0.8,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Delta 5 Ladder 2",
+            "Position": [ 1182, 487.5, 11843 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 6, 2, 6 ],
+            "EyeAccommodation": 0.6,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Delta 5 Ladder 3",
+            "Position": [ 1182, 485.5, 11843 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 6, 2, 6 ],
+            "EyeAccommodation": 0.4,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Delta 5 Ladder 4",
+            "Position": [ 1182, 483.5, 11843 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 6, 2, 6 ],
+            "EyeAccommodation": 0.25,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Delta 5 Ladder 5",
+            "Position": [ 1182, 481.5, 11843 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 6, 2, 6 ],
+            "EyeAccommodation": 0.15,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Delta 5 Ladder 6",
+            "Position": [ 1182, 479.5, 11843 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 6, 2, 6 ],
+            "EyeAccommodation": 0.08,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Delta 5 Ladder 7",
+            "Position": [ 1182, 476.5, 11843 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 6, 4, 6 ],
+            "EyeAccommodation": 0.02,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Delta 5 Ladder 8",
+            "Position": [ 1182, 470.75, 11843 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 6, 7.5, 6 ],
+            "EyeAccommodation": 0.0,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Delta 5 Silo",
+            "Position": [ 1210, 457, 11842 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 64, 20, 22 ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Delta 6 Stairs Outside",
+            "Position": [ 429, 407, 11683 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 10, 4, 10 ],
+            "EyeAccommodation": 1,
+            "Breadcrumbs": [],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Delta 6 Stairs 1",
+            "Position": [ 429, 403.8, 11683 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 6, 2.4, 12 ],
+            "EyeAccommodation": 0.8,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Delta 6 Stairs 2",
+            "Position": [ 429, 401.4, 11683 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 6, 2.4, 12 ],
+            "EyeAccommodation": 0.6,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Delta 6 Stairs 3",
+            "Position": [ 429, 399.05, 11683 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 6, 2.3, 12 ],
+            "EyeAccommodation": 0.4,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Delta 6 Stairs 4",
+            "Position": [ 429, 396.7, 11683 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 6, 2.4, 12 ],
+            "EyeAccommodation": 0.25,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Delta 6 Stairs 5",
+            "Position": [ 429, 394.35, 11683 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 6, 2.3, 12 ],
+            "EyeAccommodation": 0.15,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Delta 6 Stairs 6",
+            "Position": [ 429, 392, 11683 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 6, 2.4, 12 ],
+            "EyeAccommodation": 0.08,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Delta 6 Stairs 7",
+            "Position": [ 429, 389.65, 11683 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 6, 2.3, 12 ],
+            "EyeAccommodation": 0.02,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Delta 6 Stairs 8",
+            "Position": [ 429, 385.75, 11683 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 6, 5.5, 12 ],
+            "EyeAccommodation": 0.0,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Delta 6 Ladder Outside",
+            "Position": [ 374, 407, 11689 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 10, 4, 10 ],
+            "EyeAccommodation": 1,
+            "Breadcrumbs": [],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Delta 6 Ladder 1",
+            "Position": [ 374, 404, 11689 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 6, 2, 6 ],
+            "EyeAccommodation": 0.8,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Delta 6 Ladder 2",
+            "Position": [ 374, 402, 11689 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 6, 2, 6 ],
+            "EyeAccommodation": 0.6,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Delta 6 Ladder 3",
+            "Position": [ 374, 400, 11689 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 6, 2, 6 ],
+            "EyeAccommodation": 0.4,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Delta 6 Ladder 4",
+            "Position": [ 374, 398, 11689 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 6, 2, 6 ],
+            "EyeAccommodation": 0.25,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Delta 6 Ladder 5",
+            "Position": [ 374, 396, 11689 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 6, 2, 6 ],
+            "EyeAccommodation": 0.15,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Delta 6 Ladder 6",
+            "Position": [ 374, 394, 11689 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 6, 2, 6 ],
+            "EyeAccommodation": 0.08,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Delta 6 Ladder 7",
+            "Position": [ 374, 391, 11689 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 6, 4, 6 ],
+            "EyeAccommodation": 0.02,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Delta 6 Ladder 8",
+            "Position": [ 374, 386, 11689 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 6, 6, 6 ],
+            "EyeAccommodation": 0.0,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Delta 6 Silo",
+            "Position": [ 402, 373, 11688 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 64, 20, 22 ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+
+
+
+
+
+
+
+
+
+
+        {
+            "_Name": "Ranch Cave Outside",
+            "Position": [ 8704, 226, 11504 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 20, 10, 10 ],
+            "EyeAccommodation": 1,
+            "Breadcrumbs": [],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Ranch Cave Entrance",
+            "Position": [ 8709, 223, 11514 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 14, 4, 10 ],
+            "EyeAccommodation": 0.6,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Ranch Cave Bunker",
+            "Position": [ 8711, 223, 11534 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 20, 4, 30 ],
+            "EyeAccommodation": 0.2,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+
+
+
+
+
+
+
+
+
+        {
+            "_Name": "Simmons Castle Outside Top",
+            "Position": [ 12267, 638, 8985 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 12, 8, 20 ],
+            "EyeAccommodation": 1,
+            "Breadcrumbs": [],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Simmons Castle Outside Front",
+            "Position": [ 12259, 630, 8982 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 8, 8, 8 ],
+            "EyeAccommodation": 1,
+            "Breadcrumbs": [],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Simmons Castle Inside",
+            "Position": [ 12270, 630, 8986 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 14, 8, 16 ],
+            "EyeAccommodation": 0.9,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Simmons Castle Basement",
+            "Position": [ 12269, 613, 8983 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 20, 26, 18 ],
+            "EyeAccommodation": 0.4,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        }
+    ]
+}
