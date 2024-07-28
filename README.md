@@ -8,6 +8,10 @@ You can find High Definition sat map and tier map of Bitterroot here.
 
 https://mega.nz/folder/2Zx03LSZ#EE-gEtYLHu2o9aAgHB3PuQ
 
+Bitterroot Wiki page
+
+https://bitterrootdayz.fandom.com/wiki/BitterrootDayZ_Wiki
+
 Join the discord for further support or questions. Good luck!
 
 https://discord.gg/bitterroot
