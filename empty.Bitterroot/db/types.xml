@@ -5151,10 +5151,10 @@
         <usage name="Military"/>
     </type>
     <type name="CombinationLock">
-        <nominal>0</nominal>
+        <nominal>60</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>40</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5164,10 +5164,10 @@
         <usage name="Farm"/>
     </type>
     <type name="CombinationLock4">
-        <nominal>0</nominal>
+        <nominal>40</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -12309,10 +12309,10 @@
         <usage name="Industrial"/>
     </type>
     <type name="MetalWire">
-        <nominal>0</nominal>
+        <nominal>70</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>50</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -14327,10 +14327,10 @@
         <category name="food"/>
     </type>
     <type name="Pliers">
-        <nominal>0</nominal>
+        <nominal>70</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>50</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
