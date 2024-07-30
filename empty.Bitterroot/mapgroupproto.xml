@@ -21032,35 +21032,27 @@
 			</container>
 		</group>
 	<!--ModelsUK-->
-<group name="land_windmill" lootmax="12">
+<group name="land_windmill" lootmax="8">
 	<usage name="Industrial" />
 	<usage name="Farm" />
-	<usage name="Military" />
-	<container name="lootFloor" lootmax="12">
-		<point pos="2.589934 -18.022018 2.768158" range="0.2" height="1" /> 
-		<point pos="-3.720441 -18.015862 -3.898038" range="0.2" height="1" /> 
-		<point pos="-1.279700 -18.017742 5.457460" range="0.2" height="1" /> 
-		<point pos="3.307871 -12.643784 -0.638038" range="0.2" height="1" /> 
-		<point pos="-5.676095 -12.650743 0.159117" range="0.2" height="1" /> 
-		<point pos="-4.791043 -6.726511 0.168211" range="0.2" height="1" /> 
-		<point pos="-4.209665 -6.717585 -7.497907" range="0.2" height="1" /> 
-		<point pos="-8.965870 -6.768930 -0.023005" range="0.2" height="1" /> 
-		<point pos="-0.929326 -6.741623 8.122038" range="0.2" height="1" /> 
-		<point pos="6.462668 -6.715296 -1.027327" range="0.2" height="1" /> 
-		<point pos="1.390255 -0.924837 2.553026" range="0.2" height="1" /> 
-		<point pos="-4.180514 -0.968946 2.430127" range="0.2" height="1" /> 
-		<point pos="-2.622021 3.905981 2.460926" range="0.2" height="1" /> 
-		<point pos="-1.323625 3.929422 -2.180038" range="0.2" height="1" /> 
-		<point pos="-3.369680 -6.041660 -3.357550" range="0.2" height="1" /> 
-		<point pos="-3.027820 -6.334461 -2.665670" range="0.2" height="1.05" /> 
-		<point pos="-3.408170 -6.074461 -3.484580" range="0.2" height="1" /> 
-		<point pos="-3.023030 -0.154461 -0.276146" range="0.2" height="1" /> 
-		<point pos="-1.957610 -0.154461 -0.890251" range="0.2" height="1" /> 
-		<point pos="-1.570440 -0.154461 2.244920" range="0.2" height="1" /> 
-		<point pos="-2.710240 -0.154461 2.588970" range="0.2" height="1" /> 
-		<point pos="-0.937756 5.025537 0.230195" range="0.2" height="1" /> 
-		<point pos="1.642870 6.154440 -2.069660" range="0.21" height="1" /> 
-		<point pos="1.557050 6.095537 2.933160" range="0.2" height="1" /> 
+	<container name="lootFloor" lootmax="4">
+		<point pos="-2.043499 -17.190735 2.049894" range="1" height="1" /> 
+		<point pos="-0.193137 -17.223236 -2.942887" range="1" height="1" /> 
+		<point pos="-1.281934 -11.854820 3.341686" range="1" height="1" /> 
+		<point pos="-2.629810 -11.849820 -0.566554" range="1" height="1" /> 
+		<point pos="2.718042 -11.859820 -0.380783" range="1" height="1" /> 
+		<point pos="1.772922 -5.939968 1.839432" range="1" height="1" /> 
+		<point pos="-2.966775 -5.939968 0.526762" range="1" height="1" /> 
+		<point pos="-0.392933 -5.944005 -1.936633" range="1" height="1" /> 
+		<point pos="-0.603274 -5.952288 8.006377" range="1" height="1" /> 
+		<point pos="-7.230703 -5.944788 4.183414" range="1" height="1" /> 
+		<point pos="-5.091331 -5.942784 -5.422436" range="1" height="1" /> 
+		<point pos="3.888728 -5.950065 -7.420138" range="1" height="1" /> 
+		<point pos="7.872530 -5.951290 0.243346" range="1" height="1" /> 
+		<point pos="1.436095 -0.140800 1.573536" range="1" height="1" /> 
+		<point pos="1.358968 -0.146646 -1.825133" range="1" height="1" /> 
+		<point pos="1.321089 4.753344 1.532340" range="1" height="1" /> 
+		<point pos="1.029577 4.727270 -2.086240" range="1" height="1" /> 
 	</container>
 </group>
 <group name="land_chipper" lootmax="2">
