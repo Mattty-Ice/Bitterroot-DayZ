@@ -24949,7 +24949,7 @@
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
-	
+
 	<!--CS_Items-->
 	<type name="CS_Military_Camonet">
         <lifetime>3888000</lifetime>

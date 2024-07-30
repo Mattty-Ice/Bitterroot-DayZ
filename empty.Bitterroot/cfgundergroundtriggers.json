@@ -3,7 +3,7 @@
     [
         {
             "_Name": "Jackson Tunnel N Outside",
-            "Position": [ 3079, 206, 7928 ],
+            "Position": [ 3079, 206, 7938 ],
             "Orientation": [ 0, 0, 0 ],
             "Size": [ 46, 12, 20 ],
             "EyeAccommodation": 1,
@@ -11,11 +11,28 @@
             "InterpolationSpeed": 1
         },
         {
+            "_Name": "Jackson Tunnel N Entrance 0",
+            "Position": [ 3079, 205, 7923 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 42, 10, 10 ],
+            "EyeAccommodation": 0.4,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
             "_Name": "Jackson Tunnel N Entrance 1",
             "Position": [ 3079, 205, 7913 ],
             "Orientation": [ 0, 0, 0 ],
             "Size": [ 42, 10, 10 ],
-            "EyeAccommodation": 0.6,
+            "EyeAccommodation": 0.25,
             "Breadcrumbs":
             [
                 {           
@@ -32,7 +49,7 @@
             "Position": [ 3079, 205, 7903 ],
             "Orientation": [ 0, 0, 0 ],
             "Size": [ 42, 10, 10 ],
-            "EyeAccommodation": 0.4,
+            "EyeAccommodation": 0.15,
             "Breadcrumbs":
             [
                 {           
@@ -49,7 +66,7 @@
             "Position": [ 3079, 205, 7893 ],
             "Orientation": [ 0, 0, 0 ],
             "Size": [ 42, 10, 10 ],
-            "EyeAccommodation": 0.25,
+            "EyeAccommodation": 0.06,
             "Breadcrumbs":
             [
                 {           
@@ -66,7 +83,7 @@
             "Position": [ 3079, 205, 7883 ],
             "Orientation": [ 0, 0, 0 ],
             "Size": [ 42, 10, 10 ],
-            "EyeAccommodation": 0.15,
+            "EyeAccommodation": 0.023,
             "Breadcrumbs":
             [
                 {           
@@ -83,7 +100,7 @@
             "Position": [ 3079, 205, 7873 ],
             "Orientation": [ 0, 0, 0 ],
             "Size": [ 42, 10, 10 ],
-            "EyeAccommodation": 0.08,
+            "EyeAccommodation": 0.022,
             "Breadcrumbs":
             [
                 {           
@@ -100,7 +117,7 @@
             "Position": [ 3079, 205, 7863 ],
             "Orientation": [ 0, 0, 0 ],
             "Size": [ 42, 10, 10 ],
-            "EyeAccommodation": 0.04,
+            "EyeAccommodation": 0.021,
             "Breadcrumbs":
             [
                 {           
@@ -336,7 +353,7 @@
         },
         {
             "_Name": "Jackson Tunnel S Outside",
-            "Position": [ 3079, 206, 7251 ],
+            "Position": [ 3079, 206, 7241 ],
             "Orientation": [ 0, 0, 0 ],
             "Size": [ 46, 12, 20 ],
             "EyeAccommodation": 1,
@@ -344,11 +361,28 @@
             "InterpolationSpeed": 1
         },
         {
+            "_Name": "Jackson Tunnel S Entrance 0",
+            "Position": [ 3079, 205, 7256 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 42, 10, 10 ],
+            "EyeAccommodation": 0.4,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
             "_Name": "Jackson Tunnel S Entrance 1",
             "Position": [ 3079, 205, 7266 ],
             "Orientation": [ 0, 0, 0 ],
             "Size": [ 42, 10, 10 ],
-            "EyeAccommodation": 0.6,
+            "EyeAccommodation": 0.25,
             "Breadcrumbs":
             [
                 {           
@@ -365,7 +399,7 @@
             "Position": [ 3079, 205, 7276 ],
             "Orientation": [ 0, 0, 0 ],
             "Size": [ 42, 10, 10 ],
-            "EyeAccommodation": 0.4,
+            "EyeAccommodation": 0.15,
             "Breadcrumbs":
             [
                 {           
@@ -382,7 +416,7 @@
             "Position": [ 3079, 205, 7286 ],
             "Orientation": [ 0, 0, 0 ],
             "Size": [ 42, 10, 10 ],
-            "EyeAccommodation": 0.25,
+            "EyeAccommodation": 0.06,
             "Breadcrumbs":
             [
                 {           
@@ -399,10 +433,11 @@
             "Position": [ 3079, 205, 7296 ],
             "Orientation": [ 0, 0, 0 ],
             "Size": [ 42, 10, 10 ],
-            "EyeAccommodation": 0.15,
+            "EyeAccommodation": 0.023,
             "Breadcrumbs":
             [
                 {           
+         
                     "Position": [ 0, 0, 0 ],
                     "EyeAccommodation": 1,
                     "UseRaycast": 0,
@@ -416,7 +451,7 @@
             "Position": [ 3079, 205, 7306 ],
             "Orientation": [ 0, 0, 0 ],
             "Size": [ 42, 10, 10 ],
-            "EyeAccommodation": 0.08,
+            "EyeAccommodation": 0.022,
             "Breadcrumbs":
             [
                 {           
@@ -433,7 +468,7 @@
             "Position": [ 3079, 205, 7316 ],
             "Orientation": [ 0, 0, 0 ],
             "Size": [ 42, 10, 10 ],
-            "EyeAccommodation": 0.04,
+            "EyeAccommodation": 0.021,
             "Breadcrumbs":
             [
                 {           
@@ -632,11 +667,6 @@
             ],
             "InterpolationSpeed": 0.9
         },
-
-
-
-
-
         {
             "_Name": "Jackson Tunnel Workshop Outside",
             "Position": [ 3110, 219, 7865 ],
@@ -937,11 +967,28 @@
             "InterpolationSpeed": 1
         },
         {
+            "_Name": "Jackson Inner Tunnel N Entrance 1UP",
+            "Position": [ 3113, 203.5, 7433 ],
+            "Orientation": [ 0, 0, 0 ],
+            "Size": [ 6, 3, 12 ],
+            "EyeAccommodation": 0.08,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
             "_Name": "Jackson Inner Tunnel N Entrance 1",
             "Position": [ 3108, 203.5, 7433 ],
             "Orientation": [ 0, 0, 0 ],
             "Size": [ 16, 3, 12 ],
-            "EyeAccommodation": 0.15,
+            "EyeAccommodation": 0.08,
             "Breadcrumbs":
             [
                 {           
@@ -958,7 +1005,7 @@
             "Position": [ 3108, 203.5, 7444.5 ],
             "Orientation": [ 0, 0, 0 ],
             "Size": [ 16, 3, 11 ],
-            "EyeAccommodation": 0.08,
+            "EyeAccommodation": 0.02,
             "Breadcrumbs":
             [
                 {           
@@ -972,10 +1019,10 @@
         },
         {
             "_Name": "Jackson Inner Tunnel N Entrance 3",
-            "Position": [ 3109.75, 203.5, 7422.5 ],
+            "Position": [ 3109.75, 205, 7422.5 ],
             "Orientation": [ 0, 0, 0 ],
-            "Size": [ 12.5, 3, 9 ],
-            "EyeAccommodation": 0.08,
+            "Size": [ 12.5, 6, 9 ],
+            "EyeAccommodation": 0.04,
             "Breadcrumbs":
             [
                 {           
@@ -1026,7 +1073,7 @@
             "Position": [ 3101.75, 205, 7422.5 ],
             "Orientation": [ 0, 0, 0 ],
             "Size": [ 3.5, 6, 9 ],
-            "EyeAccommodation": 0.04,
+            "EyeAccommodation": 0.03,
             "Breadcrumbs":
             [
                 {           
@@ -1060,7 +1107,7 @@
             "Position": [ 3110, 205, 7292 ],
             "Orientation": [ 0, 0, 0 ],
             "Size": [ 8, 9, 4 ],
-            "EyeAccommodation": 0.08,
+            "EyeAccommodation": 0.02,
             "Breadcrumbs":
             [
                 {           
@@ -1077,7 +1124,7 @@
             "Position": [ 3110, 205, 7297 ],
             "Orientation": [ 0, 0, 0 ],
             "Size": [ 8, 9, 6 ],
-            "EyeAccommodation": 0.04,
+            "EyeAccommodation": 0.0,
             "Breadcrumbs":
             [
                 {           
@@ -1094,7 +1141,7 @@
             "Position": [ 3110, 205, 7304 ],
             "Orientation": [ 0, 0, 0 ],
             "Size": [ 8, 9, 8 ],
-            "EyeAccommodation": 0.02,
+            "EyeAccommodation": 0.0,
             "Breadcrumbs":
             [
                 {           
@@ -1128,7 +1175,7 @@
             "Position": [ 3110, 205, 7406 ],
             "Orientation": [ 0, 0, 0 ],
             "Size": [ 8, 9, 4 ],
-            "EyeAccommodation": 0.02,
+            "EyeAccommodation": 0.0,
             "Breadcrumbs":
             [
                 {           
@@ -1145,7 +1192,7 @@
             "Position": [ 3110, 205, 7410 ],
             "Orientation": [ 0, 0, 0 ],
             "Size": [ 8, 9, 4 ],
-            "EyeAccommodation": 0.04,
+            "EyeAccommodation": 0.0,
             "Breadcrumbs":
             [
                 {           
@@ -1162,7 +1209,7 @@
             "Position": [ 3110, 205, 7415 ],
             "Orientation": [ 0, 0, 0 ],
             "Size": [ 8, 9, 6 ],
-            "EyeAccommodation": 0.08,
+            "EyeAccommodation": 0.02,
             "Breadcrumbs":
             [
                 {           
@@ -3854,16 +3901,569 @@
             ],
             "InterpolationSpeed": 1
         },
+        {
+            "_Name": "Niceville Tunnel N Outside",
+            "Position": [ 4193, 565, 4108 ],
+            "Orientation": [ -37, 0, 0 ],
+            "Size": [ 24, 20, 20 ],
+            "EyeAccommodation": 1,
+            "Breadcrumbs": [],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Niceville Tunnel N 1",
+            "Position": [ 4202.2, 568, 4096.1 ],
+            "Orientation": [ -37, 0, 0 ],
+            "Size": [ 22, 16, 10 ],
+            "EyeAccommodation": 0.8,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Niceville Tunnel N 2",
+            "Position": [ 4208.1, 568, 4088.2 ],
+            "Orientation": [ -37, 0, 0 ],
+            "Size": [ 22, 18, 10 ],
+            "EyeAccommodation": 0.6,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Niceville Tunnel N 3",
+            "Position": [ 4214.1, 568, 4080.3 ],
+            "Orientation": [ -37, 0, 0 ],
+            "Size": [ 22, 18, 10 ],
+            "EyeAccommodation": 0.4,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Niceville Tunnel N 4",
+            "Position": [ 4220, 567, 4072.3 ],
+            "Orientation": [ -37, 0, 0 ],
+            "Size": [ 22, 18, 10 ],
+            "EyeAccommodation": 0.3,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Niceville Tunnel N 5",
+            "Position": [ 4226, 566, 4064.4 ],
+            "Orientation": [ -37, 0, 0 ],
+            "Size": [ 22, 18, 10 ],
+            "EyeAccommodation": 0.2,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Niceville Tunnel N 6",
+            "Position": [ 4232, 565, 4056.5 ],
+            "Orientation": [ -37, 0, 0 ],
+            "Size": [ 22, 18, 10 ],
+            "EyeAccommodation": 0.15,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Niceville Tunnel N 7",
+            "Position": [ 4238, 564, 4048.5 ],
+            "Orientation": [ -37, 0, 0 ],
+            "Size": [ 22, 18, 10 ],
+            "EyeAccommodation": 0.12,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Niceville Tunnel N 8",
+            "Position": [ 4244, 562, 4040.6 ],
+            "Orientation": [ -37, 0, 0 ],
+            "Size": [ 22, 18, 10 ],
+            "EyeAccommodation": 0.1,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Niceville Tunnel N 9",
+            "Position": [ 4250, 561, 4032.7 ],
+            "Orientation": [ -37, 0, 0 ],
+            "Size": [ 22, 18, 10 ],
+            "EyeAccommodation": 0.08,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Niceville Tunnel N 10",
+            "Position": [ 4256, 560, 4024.8 ],
+            "Orientation": [ -37, 0, 0 ],
+            "Size": [ 22, 18, 10 ],
+            "EyeAccommodation": 0.06,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Niceville Tunnel N 11",
+            "Position": [ 4262.1, 559, 4016.9 ],
+            "Orientation": [ -37, 0, 0 ],
+            "Size": [ 22, 18, 10 ],
+            "EyeAccommodation": 0.05,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Niceville Tunnel N 12",
+            "Position": [ 4268.6, 558, 4008.1 ],
+            "Orientation": [ -37, 0, 0 ],
+            "Size": [ 22, 18, 12 ],
+            "EyeAccommodation": 0.04,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Niceville Tunnel S Outside",
+            "Position": [ 4351, 542, 3903.5 ],
+            "Orientation": [ -44, 0, 0 ],
+            "Size": [ 24, 20, 20 ],
+            "EyeAccommodation": 1,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Niceville Tunnel S 1a",
+            "Position": [ 4340, 545, 3913.6 ],
+            "Orientation": [ -44, 0, 0 ],
+            "Size": [ 22, 18, 10 ],
+            "EyeAccommodation": 0.8,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Niceville Tunnel S 1b",
+            "Position": [ 4337.7, 545, 3918.1 ],
+            "Orientation": [ -40, 0, 0 ],
+            "Size": [ 25, 18, 1.2 ],
+            "EyeAccommodation": 0.8,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Niceville Tunnel S 2",
+            "Position": [ 4333, 546, 3921 ],
+            "Orientation": [ -40, 0, 0 ],
+            "Size": [ 22, 18, 10 ],
+            "EyeAccommodation": 0.6,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Niceville Tunnel S 3a",
+            "Position": [ 4326.7, 547, 3928.5 ],
+            "Orientation": [ -39, 0, 0 ],
+            "Size": [ 22, 18, 10 ],
+            "EyeAccommodation": 0.4,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Niceville Tunnel S 3b",
+            "Position": [ 4317.3, 549, 3940.2 ],
+            "Orientation": [ -38, 0, 0 ],
+            "Size": [ 22, 18, 1 ],
+            "EyeAccommodation": 0.4,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Niceville Tunnel S 4",
+            "Position": [ 4320.5, 548, 3936.2 ],
+            "Orientation": [ -37, 0, 0 ],
+            "Size": [ 22, 18, 10 ],
+            "EyeAccommodation": 0.3,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Niceville Tunnel S 5",
+            "Position": [ 4314.3, 550, 3944.2 ],
+            "Orientation": [ -37, 0, 0 ],
+            "Size": [ 22, 18, 10 ],
+            "EyeAccommodation": 0.2,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Niceville Tunnel S 6",
+            "Position": [ 4308.3, 550.5, 3952.1 ],
+            "Orientation": [ -37, 0, 0 ],
+            "Size": [ 22, 18, 10 ],
+            "EyeAccommodation": 0.15,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
 
-
-
-
-
-
-
-
-
-
+        {
+            "_Name": "Niceville Tunnel S 7",
+            "Position": [ 4302.3, 551.5, 3960 ],
+            "Orientation": [ -37, 0, 0 ],
+            "Size": [ 22, 18, 10 ],
+            "EyeAccommodation": 0.12,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Niceville Tunnel S 8",
+            "Position": [ 4296.3, 552.5, 3967.9 ],
+            "Orientation": [ -37, 0, 0 ],
+            "Size": [ 22, 18, 10 ],
+            "EyeAccommodation": 0.1,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Niceville Tunnel S 9",
+            "Position": [ 4290.3, 553.5, 3975.8 ],
+            "Orientation": [ -37, 0, 0 ],
+            "Size": [ 22, 18, 10 ],
+            "EyeAccommodation": 0.08,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Niceville Tunnel S 10",
+            "Position": [ 4284.3, 554.5, 3983.7 ],
+            "Orientation": [ -37, 0, 0 ],
+            "Size": [ 22, 18, 10 ],
+            "EyeAccommodation": 0.06,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Niceville Tunnel S 11",
+            "Position": [ 4278.7, 555.5, 3991.9 ],
+            "Orientation": [ -37, 0, 0 ],
+            "Size": [ 22, 18, 10 ],
+            "EyeAccommodation": 0.05,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Niceville Tunnel S 12",
+            "Position": [ 4273, 556.5, 4000 ],
+            "Orientation": [ -37, 0, 0 ],
+            "Size": [ 22, 18, 10 ],
+            "EyeAccommodation": 0.04,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Tyler Tunnel Outside",
+            "Position": [ 10140.1, 179.2, 673.6 ],
+            "Orientation": [ -35.5, 0, 0 ],
+            "Size": [ 18, 16, 10 ],
+            "EyeAccommodation": 1,
+            "Breadcrumbs": [],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Tyler Tunnel 1",
+            "Position": [ 10145.8, 179.2, 665.6 ],
+            "Orientation": [ -35.5, 0, 0 ],
+            "Size": [ 18, 16, 10 ],
+            "EyeAccommodation": 0.6,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Tyler Tunnel 2",
+            "Position": [ 10151.5, 179.2, 657.6 ],
+            "Orientation": [ -35.5, 0, 0 ],
+            "Size": [ 18, 16, 10 ],
+            "EyeAccommodation": 0.4,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Tyler Tunnel 3",
+            "Position": [ 10157.3, 179.2, 649.5 ],
+            "Orientation": [ -35.5, 0, 0 ],
+            "Size": [ 18, 16, 10 ],
+            "EyeAccommodation": 0.25,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Tyler Tunnel 4",
+            "Position": [ 10163, 179.2, 641.5 ],
+            "Orientation": [ -35.5, 0, 0 ],
+            "Size": [ 18, 16, 10 ],
+            "EyeAccommodation": 0.15,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
+        {
+            "_Name": "Tyler Tunnel 5",
+            "Position": [ 10171.5, 179.2, 629.5 ],
+            "Orientation": [ -35.5, 0, 0 ],
+            "Size": [ 20, 20, 20 ],
+            "EyeAccommodation": 0.08,
+            "Breadcrumbs":
+            [
+                {           
+                    "Position": [ 0, 0, 0 ],
+                    "EyeAccommodation": 1,
+                    "UseRaycast": 0,
+                    "Radius": -1
+                }
+            ],
+            "InterpolationSpeed": 1
+        },
         {
             "_Name": "Ranch Cave Outside",
             "Position": [ 8704, 226, 11504 ],
@@ -3907,15 +4507,6 @@
             ],
             "InterpolationSpeed": 1
         },
-
-
-
-
-
-
-
-
-
         {
             "_Name": "Simmons Castle Outside Top",
             "Position": [ 12267, 638, 8985 ],

@@ -24,8 +24,8 @@
             }
         },
         {   "AreaName": "Delta1", 
-            "Type": "ContaminatedArea_Static", 
-            "TriggerType": "ContaminatedTrigger",
+            "Type": "SiloArea_Static", 
+            "TriggerType": "SiloTrigger",
             "Data": { 
                 "Pos": [ 1477.73, 185, 9552.02 ],
                 "Radius": 70,
@@ -47,8 +47,8 @@
             }
         },
         {   "AreaName": "Delta2", 
-            "Type": "ContaminatedArea_Static", 
-            "TriggerType": "ContaminatedTrigger",
+            "Type": "SiloArea_Static", 
+            "TriggerType": "SiloTrigger",
             "Data": { 
                 "Pos": [ 1900.69, 172, 9231.45 ],
                 "Radius": 70,
@@ -70,8 +70,8 @@
             }
         },
         {   "AreaName": "Delta3", 
-            "Type": "ContaminatedArea_Static", 
-            "TriggerType": "ContaminatedTrigger",
+            "Type": "SiloArea_Static", 
+            "TriggerType": "SiloTrigger",
             "Data": { 
                 "Pos": [ 2863.12, 339, 9866.68 ],
                 "Radius": 70,
@@ -93,8 +93,8 @@
             }
         },
         {   "AreaName": "Delta4", 
-            "Type": "ContaminatedArea_Static", 
-            "TriggerType": "ContaminatedTrigger",
+            "Type": "SiloArea_Static", 
+            "TriggerType": "SiloTrigger",
             "Data": { 
                 "Pos": [ 3001.37, 339, 10372.3 ],
                 "Radius": 70,
@@ -116,8 +116,8 @@
             }
         },
         {   "AreaName": "Delta5", 
-            "Type": "ContaminatedArea_Static", 
-            "TriggerType": "ContaminatedTrigger",
+            "Type": "SiloArea_Static", 
+            "TriggerType": "SiloTrigger",
             "Data": { 
                 "Pos": [ 1211.9, 460, 11843.4 ],
                 "Radius": 70,
@@ -139,8 +139,8 @@
             }
         },
         {     "AreaName": "Delta6", 
-            "Type": "ContaminatedArea_Static", 
-            "TriggerType": "ContaminatedTrigger",
+            "Type": "SiloArea_Static", 
+            "TriggerType": "SiloTrigger",
             "Data": { 
                 "Pos": [ 404.009, 374, 11688.4 ],
                 "Radius": 70,
