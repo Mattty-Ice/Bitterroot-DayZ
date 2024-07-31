@@ -1,0 +1,5 @@
+To get the true Bitterroot vanilla experience as seen in the Official Bitterroor Playtests, be sure to add at least the following to your serverDZ.cfg file.
+
+defaultVisibility=3000;
+defaultObjectViewDistance=3000
+enableCfgGameplayFile = 1;
