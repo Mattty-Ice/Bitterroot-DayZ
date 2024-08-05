@@ -8849,10 +8849,10 @@
         <usage name="Industrial"/>
     </type>
     <type name="Headtorch_Black">
-        <nominal>120</nominal>
+        <nominal>100</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>90</min>
+        <min>75</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -8863,15 +8863,12 @@
         <usage name="Town"/>
         <usage name="Village"/>
         <usage name="Hunting"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
     </type>
     <type name="Headtorch_Grey">
-        <nominal>120</nominal>
+        <nominal>100</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>90</min>
+        <min>75</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -8882,9 +8879,6 @@
         <usage name="Town"/>
         <usage name="Village"/>
         <usage name="Hunting"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
     </type>
     <type name="Heatpack">
         <nominal>50</nominal>
