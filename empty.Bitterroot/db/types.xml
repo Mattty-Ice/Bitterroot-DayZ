@@ -11357,7 +11357,7 @@
     <type name="M4_Suppressor">
         <nominal>3</nominal>
         <lifetime>7200</lifetime>
-        <restock>3600</restock>
+        <restock>7200</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -18237,10 +18237,10 @@
         <usage name="Military"/>
     </type>
     <type name="UMP45">
-        <nominal>35</nominal>
+        <nominal>20</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>20</min>
+        <min>12</min>
         <quantmin>5</quantmin>
         <quantmax>50</quantmax>
         <cost>100</cost>
@@ -23606,8 +23606,8 @@
 	<type name="MF_M110K1">
         <nominal>5</nominal>
         <lifetime>28800</lifetime>
-        <restock>1800</restock>
-        <min>1</min>
+        <restock>7200</restock>
+        <min>0</min>
         <quantmin>30</quantmin>
         <quantmax>80</quantmax>
         <cost>100</cost>
@@ -23839,8 +23839,8 @@
 	<type name="MF_SCAR">
         <nominal>5</nominal>
         <lifetime>28800</lifetime>
-        <restock>1800</restock>
-        <min>1</min>
+        <restock>7200</restock>
+        <min>0</min>
         <quantmin>30</quantmin>
         <quantmax>80</quantmax>
         <cost>100</cost>
@@ -24314,7 +24314,7 @@
 	<type name="M4_Suppressor_Tan">
         <nominal>3</nominal>
         <lifetime>7200</lifetime>
-        <restock>3600</restock>
+        <restock>7200</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -24435,7 +24435,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="food"/>
     </type>
-    <type name="MF_MountainLion_Meat">
+    <type name="MountainLion_Meat">
         <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>2500</restock>
@@ -24445,6 +24445,39 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="food"/>
+    </type>
+	<type name="MF_Moose_Pelt">
+        <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="tools"/>
+    </type>
+	<type name="MF_Moose_Antler">
+        <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="tools"/>
+    </type>
+	<type name="MountainLion_Pelt">
+        <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="tools"/>
     </type>
 	
 	<!--Bitterroot Zombies-->

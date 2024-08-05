@@ -630,8 +630,8 @@
     </event>
     <event name="StaticContaminatedArea">
         <nominal>0</nominal>
-        <min>2</min>
-        <max>4</max>
+        <min>1</min>
+        <max>1</max>
         <lifetime>2100</lifetime>
         <restock>0</restock>
         <saferadius>0</saferadius>
@@ -642,7 +642,7 @@
         <limit>parent</limit>
         <active>0</active>
         <children>
-            <child lootmax="0" lootmin="0" max="4" min="2" type="ContaminatedArea_Dynamic"/>
+            <child lootmax="0" lootmin="0" max="1" min="1" type="ContaminatedArea_Dynamic"/>
         </children>
     </event>
     <event name="StaticFridgeTest">
