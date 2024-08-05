@@ -20318,7 +20318,7 @@
 	<usage name="Industrial" />
 	<usage name="Farm" />
 	<usage name="Village" />
-	<container name="lootFloor" lootmax=" ">
+	<container name="lootFloor" lootmax="4">
 		<point pos="-0.330721 0.056979 1.926140" range="0.5" height="0.5" /> 
 		<point pos="0.547576 -0.620833 -1.597854" range="1" height="1" /> 
 		<point pos="0.918414 -0.620833 0.648475" range="1" height="1" /> 
