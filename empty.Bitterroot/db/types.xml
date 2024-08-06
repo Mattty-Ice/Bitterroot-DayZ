@@ -24230,10 +24230,10 @@
         <value name="Tier4"/>
     </type>
 	<type name="MF_AmmoBox_46x30AP_20Rnd">
-        <nominal>25</nominal>
+        <nominal>18</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>12</min>
+        <min>9</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
