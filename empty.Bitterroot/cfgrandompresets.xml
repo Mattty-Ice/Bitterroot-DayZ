@@ -245,10 +245,10 @@
 			<item name="PlateCarrierVest" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00" name="HeavyHelmetArmy">
-			<item name="BallisticHelmet_Green" chance="1.00" />
+			<item name="MilitaryBeret_UN" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00" name="OfficerHatArmy">
-			<item name="BallisticHelmet_Green" chance="1.00" />
+			<item name="MilitaryBeret_UN" chance="1.00" />
 		</attachments>
 		
 		<!--PRISONER ATTACHMENTS-->
