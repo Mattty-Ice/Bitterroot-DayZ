@@ -12649,7 +12649,7 @@
         <value name="Tier4"/>
     </type>
     <type name="Mosin9130_Green">
-        <nominal>00</nominal>
+        <nominal>0</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>0</min>
