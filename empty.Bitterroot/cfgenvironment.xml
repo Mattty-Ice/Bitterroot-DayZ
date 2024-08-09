@@ -26,10 +26,10 @@
 			<file usable="cattle_territories" />
 		</territory>
 		<territory type="Herd" name="Goat" behavior="DZSheepGroupBeh">
-			<file usable="sheep_goat_territories" /> -->
+			<file usable="sheep_goat_territories" /> 
 		</territory>
 		<territory type="Herd" name="Sheep" behavior="DZSheepGroupBeh">
-			<file usable="sheep_goat_territories" /> -->
+			<file usable="sheep_goat_territories" /> 
 		</territory>
 		<territory type="Herd" name="RoeDeer" behavior="DZDeerGroupBeh">
 			<file usable="roe_deer_territories" />
