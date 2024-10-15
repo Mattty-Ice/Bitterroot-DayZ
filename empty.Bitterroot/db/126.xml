@@ -339,10 +339,10 @@
         <usage name="Military"/>
     </type>
     <type name="GlassBottle">
-        <nominal>45</nominal>
+        <nominal>75</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>35</min>
+        <min>40</min>
         <quantmin>0</quantmin>
         <quantmax>0</quantmax>
         <cost>100</cost>
