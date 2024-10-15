@@ -16,7 +16,7 @@
 		<file path="env/lion_territories.xml" />
 		<file path="env/BearBlack_territories.xml" />
 		<file path="env/hare_territories.xml" />
-		<file path="env/fox_territories" />
+		<file path="env/fox_territories.xml" />
 		<!-- <file path="env/wild_boar_territories.xml" /> -->
 		<!-- <file path="env/sheep_goat_territories.xml" /> -->
 
