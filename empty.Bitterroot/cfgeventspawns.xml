@@ -323,6 +323,8 @@
 		<pos x="6446.03" y="234.89" z="6437.23" a="-30.9667"/>
 	</event>
 
+	<event name="AmbientFox" />
+	<event name="AmbientHare" />
     <event name="VehicleTransitBus" />
     <event name="InfectedVillage" />
     <event name="InfectedSolitude" />
