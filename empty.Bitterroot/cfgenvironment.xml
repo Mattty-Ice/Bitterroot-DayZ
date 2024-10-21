@@ -87,7 +87,7 @@
 			<agent type="Female" chance="1">
 				<spawn configName="Animal_LepusEuropaeus" chance="1" />
 			</agent>
-			<item name="zoneTouchDisableEditPeriodSec" val="300" />
+			<item name="zoneTouchDisableEditPeriodSec" val="250" />
 		</territory>
 		
 		<!-- FOX -->
@@ -100,7 +100,7 @@
 			<agent type="Female" chance="1">
 				<spawn configName="Animal_VulpesVulpes" chance="1" />
 			</agent>
-			<item name="zoneTouchDisableEditPeriodSec" val="450" />
+			<item name="zoneTouchDisableEditPeriodSec" val="325" />
 		</territory>
 		
 		<!-- INFECTED -->
