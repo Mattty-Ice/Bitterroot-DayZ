@@ -20201,7 +20201,7 @@
     </container>
     <dispatch dechance="1.000000">
                         <proxy type="MF_KeyCard" pos="15.786516 -16.497602 -2.321521" rpy="0.000000 0.000000 0.000000" dechance="0.15" />
-                        <proxy type="NVGoggles" pos="10.926075 -16.495102 -2.378684" rpy="0.000000 0.000000 0.000000" dechance="0." />
+                        <proxy type="NVGoggles" pos="10.926075 -16.495102 -2.378684" rpy="0.000000 0.000000 0.000000" dechance="0.0" />
                 </dispatch>
 </group>
 <group name="Land_MF_motel" lootmax="20">
