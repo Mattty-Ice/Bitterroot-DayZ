@@ -1,210 +1,210 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <territory-type>
     <territory color="4278190080">
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="10625.1" z="946.286" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="11108.6" z="1145.14" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="10659.4" z="1429.71" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="10141.7" z="1354.29" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="10882.3" z="1954.29" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="10145.1" z="1978.29" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="9565.71" z="2081.14" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="10704" z="2290.29" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="10590.9" z="2732.57" r="85"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="10625.1" z="946.286" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="11108.6" z="1145.14" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="10659.4" z="1429.71" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="10141.7" z="1354.29" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="10882.3" z="1954.29" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="10145.1" z="1978.29" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="9565.71" z="2081.14" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="10704" z="2290.29" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="10590.9" z="2732.57" r="45"/>
     </territory>
     <territory color="4278190080">
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="10206.9" z="2828.57" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="10419.4" z="3133.71" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="9260.57" z="2650.29" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="9058.29" z="1494.86" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="8790.86" z="1206.86" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="9843.43" z="726.857" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="11468.6" z="3744" r="85"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="10206.9" z="2828.57" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="10419.4" z="3133.71" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="9260.57" z="2650.29" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="9058.29" z="1494.86" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="8790.86" z="1206.86" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="9843.43" z="726.857" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="11468.6" z="3744" r="45"/>
     </territory>
     <territory color="4278190080">
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="10755.4" z="3785.14" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="10224" z="3867.43" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="9555.43" z="4042.29" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="8708.57" z="3003.43" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="7947.43" z="713.143" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="7316.57" z="493.714" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="8125.71" z="1906.29" r="85"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="10755.4" z="3785.14" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="10224" z="3867.43" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="9555.43" z="4042.29" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="8708.57" z="3003.43" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="7947.43" z="713.143" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="7316.57" z="493.714" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="8125.71" z="1906.29" r="45"/>
     </territory>
     <territory color="4278190080">
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="8211.43" z="1110.86" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="8578.29" z="672" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="6435.43" z="332.571" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="5208" z="435.429" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="6243.43" z="668.571" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="4542.86" z="397.714" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="3936" z="2334.86" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="4056" z="2684.57" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="4313.14" z="603.429" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="3651.43" z="648" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="2108.57" z="637.714" r="85"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="8211.43" z="1110.86" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="8578.29" z="672" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="6435.43" z="332.571" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="5208" z="435.429" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="6243.43" z="668.571" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="4542.86" z="397.714" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="3936" z="2334.86" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="4056" z="2684.57" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="4313.14" z="603.429" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="3651.43" z="648" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="2108.57" z="637.714" r="45"/>
     </territory>
     <territory color="4278190080">
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="2328" z="857.143" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="1755.43" z="1652.57" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="1148.57" z="1724.57" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="747.429" z="1721.14" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="798.857" z="1234.29" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="637.714" z="500.571" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="404.571" z="2616" r="85"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="2328" z="857.143" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="1755.43" z="1652.57" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="1148.57" z="1724.57" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="747.429" z="1721.14" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="798.857" z="1234.29" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="637.714" z="500.571" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="404.571" z="2616" r="45"/>
     </territory>
     <territory color="4278190080">
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="1179.43" z="3432" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="723.429" z="3980.57" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="857.143" z="4861.71" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="1104" z="5406.86" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="1851.43" z="5088" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="2907.43" z="5646.86" r="85"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="1179.43" z="3432" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="723.429" z="3980.57" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="857.143" z="4861.71" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="1104" z="5406.86" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="1851.43" z="5088" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="2907.43" z="5646.86" r="45"/>
     </territory>
     <territory color="4278190080">
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="2866.29" z="5989.71" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="2369.14" z="6034.29" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="1368" z="6713.14" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="521.143" z="7128" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="802.286" z="7577.14" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="2742.86" z="7686.86" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="3291.43" z="7570.29" r="85"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="2866.29" z="5989.71" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="2369.14" z="6034.29" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="1368" z="6713.14" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="521.143" z="7128" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="802.286" z="7577.14" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="2742.86" z="7686.86" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="3291.43" z="7570.29" r="45"/>
     </territory>
     <territory color="4278190080">
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="3075.43" z="7193.14" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="2214.86" z="7892.57" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="2509.71" z="7265.14" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="3305.14" z="7950.86" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="2760" z="7981.71" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="3072" z="7601.14" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="1889.14" z="8602.29" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="1381.71" z="8753.14" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="774.857" z="8681.14" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="476.571" z="8814.86" r="85"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="3075.43" z="7193.14" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="2214.86" z="7892.57" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="2509.71" z="7265.14" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="3305.14" z="7950.86" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="2760" z="7981.71" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="3072" z="7601.14" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="1889.14" z="8602.29" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="1381.71" z="8753.14" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="774.857" z="8681.14" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="476.571" z="8814.86" r="45"/>
     </territory>
     <territory color="4278190080">
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="1213.71" z="9517.71" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="836.571" z="9730.29" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="1721.14" z="9936" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="1827.43" z="9291.43" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="2177.14" z="10748.6" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="2928" z="11372.6" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="2197.71" z="12024" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="2043.43" z="11742.9" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="1224" z="11753.1" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="596.571" z="11225.1" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="4309.71" z="11941.7" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="4148.57" z="11526.9" r="85"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="1213.71" z="9517.71" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="836.571" z="9730.29" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="1721.14" z="9936" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="1827.43" z="9291.43" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="2177.14" z="10748.6" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="2928" z="11372.6" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="2197.71" z="12024" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="2043.43" z="11742.9" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="1224" z="11753.1" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="596.571" z="11225.1" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="4309.71" z="11941.7" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="4148.57" z="11526.9" r="45"/>
     </territory>
     <territory color="4278190080">
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="4494.86" z="10697.1" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="4145.14" z="10097.1" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="4697.14" z="9332.57" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="5972.57" z="10361.1" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="5677.71" z="11698.3" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="4920" z="12065.1" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="4882.29" z="7518.86" r="85"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="4494.86" z="10697.1" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="4145.14" z="10097.1" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="4697.14" z="9332.57" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="5972.57" z="10361.1" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="5677.71" z="11698.3" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="4920" z="12065.1" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="4882.29" z="7518.86" r="45"/>
     </territory>
     <territory color="4278190080">
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="4673.14" z="8053.71" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="5033.14" z="5965.71" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="5280" z="6195.43" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="6401.14" z="6116.57" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="6476.57" z="6384" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="6243.43" z="6548.57" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="6164.57" z="6336" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="6257.14" z="6888" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="5684.57" z="5040" r="85"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="4673.14" z="8053.71" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="5033.14" z="5965.71" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="5280" z="6195.43" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="6401.14" z="6116.57" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="6476.57" z="6384" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="6243.43" z="6548.57" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="6164.57" z="6336" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="6257.14" z="6888" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="5684.57" z="5040" r="45"/>
     </territory>
     <territory color="4278190080">
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="5760" z="4464" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="4974.86" z="5211.43" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="4398.86" z="5088" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="6624" z="5358.86" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="8046.86" z="5393.14" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="7642.29" z="5732.57" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="7957.71" z="6171.43" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="7152" z="9414.86" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="6233.14" z="8794.29" r="85"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="5760" z="4464" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="4974.86" z="5211.43" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="4398.86" z="5088" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="6624" z="5358.86" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="8046.86" z="5393.14" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="7642.29" z="5732.57" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="7957.71" z="6171.43" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="7152" z="9414.86" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="6233.14" z="8794.29" r="45"/>
     </territory>
     <territory color="4278190080">
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="9480" z="9987.43" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="9740.57" z="10237.7" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="9442.29" z="10323.4" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="7748.57" z="10512" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="7340.57" z="10556.6" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="7494.86" z="10813.7" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="8036.57" z="11681.1" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="7834.29" z="11976" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="8115.43" z="11948.6" r="85"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="9480" z="9987.43" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="9740.57" z="10237.7" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="9442.29" z="10323.4" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="7748.57" z="10512" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="7340.57" z="10556.6" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="7494.86" z="10813.7" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="8036.57" z="11681.1" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="7834.29" z="11976" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="8115.43" z="11948.6" r="45"/>
     </territory>
     <territory color="4278190080">
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="6620.57" z="11317.7" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="6915.43" z="11441.1" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="11321.1" z="11249.1" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="11187.4" z="11410.3" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="10851.4" z="11537.1" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="10813.7" z="12068.6" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="11420.6" z="10213.7" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="12003.4" z="8797.71" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="11146.3" z="7971.43" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="9785.14" z="7110.86" r="85"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="6620.57" z="11317.7" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="6915.43" z="11441.1" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="11321.1" z="11249.1" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="11187.4" z="11410.3" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="10851.4" z="11537.1" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="10813.7" z="12068.6" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="11420.6" z="10213.7" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="12003.4" z="8797.71" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="11146.3" z="7971.43" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="9785.14" z="7110.86" r="45"/>
     </territory>
     <territory color="4278190080">
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="9894.86" z="7364.57" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="9216" z="6648" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="10752" z="7097.14" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="9726.86" z="6061.71" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="11026.3" z="5787.43" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="11136" z="6027.43" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="11067.4" z="4878.86" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="11358.9" z="4769.14" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="11602.3" z="4032" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="11286.9" z="3936" r="85"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="9894.86" z="7364.57" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="9216" z="6648" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="10752" z="7097.14" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="9726.86" z="6061.71" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="11026.3" z="5787.43" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="11136" z="6027.43" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="11067.4" z="4878.86" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="11358.9" z="4769.14" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="11602.3" z="4032" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="11286.9" z="3936" r="45"/>
     </territory>
     <territory color="4278190080">
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="10114.3" z="4121.14" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="11715.4" z="579.429" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="9792" z="267.429" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="6288" z="1470.86" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="2396.57" z="1392" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="1947.43" z="2372.57" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="1309.71" z="2622.86" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="212.571" z="771.429" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="2482.29" z="4470.86" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="3720" z="5341.71" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="3925.71" z="4093.71" r="85"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="10114.3" z="4121.14" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="11715.4" z="579.429" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="9792" z="267.429" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="6288" z="1470.86" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="2396.57" z="1392" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="1947.43" z="2372.57" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="1309.71" z="2622.86" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="212.571" z="771.429" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="2482.29" z="4470.86" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="3720" z="5341.71" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="3925.71" z="4093.71" r="45"/>
     </territory>
     <territory color="4278190080">
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="3216" z="4265.14" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="4625.14" z="3888" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="5238.86" z="4320" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="5739.43" z="2389.71" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="4577.14" z="1395.43" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="6781.71" z="1861.71" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="7213.71" z="3233.14" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="7038.86" z="4179.43" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="5873.14" z="5756.57" r="85"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="3216" z="4265.14" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="4625.14" z="3888" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="5238.86" z="4320" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="5739.43" z="2389.71" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="4577.14" z="1395.43" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="6781.71" z="1861.71" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="7213.71" z="3233.14" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="7038.86" z="4179.43" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="5873.14" z="5756.57" r="45"/>
     </territory>
     <territory color="4278190080">
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="7337.14" z="7704" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="8787.43" z="5729.14" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="9137.14" z="4326.86" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="9507.43" z="3260.57" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="11753.1" z="1560" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="11616" z="2317.71" r="85"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="7337.14" z="7704" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="8787.43" z="5729.14" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="9137.14" z="4326.86" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="9507.43" z="3260.57" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="11753.1" z="1560" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="11616" z="2317.71" r="45"/>
     </territory>
     <territory color="4278190080">
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="10645.7" z="4512" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="9888" z="4621.71" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="9977.14" z="8369.14" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="8472" z="8184" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="8801.14" z="11040" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="6627.43" z="10148.6" r="85"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="10645.7" z="4512" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="9888" z="4621.71" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="9977.14" z="8369.14" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="8472" z="8184" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="8801.14" z="11040" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="6627.43" z="10148.6" r="45"/>
     </territory>
     <territory color="4278190080">
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="4964.57" z="11598.9" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="3294.86" z="11718.9" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="1978.29" z="11088" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="120" z="12017.1" r="85"/>
-        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="229.714" z="10402.3" r="85"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="4964.57" z="11598.9" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="3294.86" z="11718.9" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="1978.29" z="11088" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="120" z="12017.1" r="45"/>
+        <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="229.714" z="10402.3" r="45"/>
     </territory>
 </territory-type>

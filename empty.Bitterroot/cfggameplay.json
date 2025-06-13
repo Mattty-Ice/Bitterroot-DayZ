@@ -48,16 +48,16 @@
 	},
 	"WorldsData":
 	{
-		"lightingConfig": 0,
+		"lightingConfig": 2,
 		"objectSpawnersArr": [],
 		"environmentMinTemps": 
 		
 		[
-			3.0, 3.0, 3.0, 3.0, 3.0, 3.0, 3.0, 3.0, 3.0, 3.0, 3.0, 3.0
+			7.0, 7.0, 7.0, 7.0, 7.0, 7.0, 7.0, 7.0, 7.0, 7.0, 7.0, 7.0
 		],
 		"environmentMaxTemps":
 		[
-			24.0, 24.0, 24.0, 24.0, 24.0, 24.0, 24.0, 24.0, 24.0, 24.0, 24.0, 24.0
+			17.0, 17.0, 17.0, 17.0, 17.0, 17.0, 17.0, 17.0, 17.0, 17.0, 17.0, 17.0
 		],
 		"wetnessWeightModifiers":
 		[
@@ -92,11 +92,11 @@
 		"use3DMap": false,
 		"HitIndicationData":
 		{
-			"hitDirectionOverrideEnabled": false,
-			"hitDirectionBehaviour": 1,
+			"hitDirectionOverrideEnabled": true,
+			"hitDirectionBehaviour": 0,
 			"hitDirectionStyle": 0,
 			"hitDirectionIndicatorColorStr": "0xffbb0a1e",
-			"hitDirectionMaxDuration": 2.0,
+			"hitDirectionMaxDuration": 0.5,
 			"hitDirectionBreakPointRelative": 0.2,
 			"hitDirectionScatter": 10.0,
 			"hitIndicationPostProcessEnabled": false

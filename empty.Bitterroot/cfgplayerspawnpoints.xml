@@ -20,49 +20,70 @@
         </generator_params>
         <group_params>
             <enablegroups>false</enablegroups>
-            <groups_as_regular>false</groups_as_regular>
+            <groups_as_regular>true</groups_as_regular>
             <lifetime>360</lifetime>
             <counter>-1</counter>
         </group_params>
         <generator_posbubbles>
+        <group name="Fishville" lifetime="120" counter="-1">
+		<pos x="2559.38" z="649.13"/>
+		<pos x="2330.25" z="531.75"/>
+		<pos x="2629.50" z="775.50"/>
+        </group>
+		<group name="Jasper" lifetime="240" counter="-1">
 		<pos x="6226.17" z="383.595"/>
 		<pos x="6011.67" z="451.51"/>
 		<pos x="5677.1" z="499.186"/>
 		<pos x="5409.05" z="364.785"/>
+		<pos x="5864.18" z="362.694"/>
+        </group>
+        <group name="Ouray" lifetime="240" counter="-1">
 		<pos x="7523.17" z="399.026"/>
 		<pos x="7298.04" z="352.745"/>
-		<pos x="9466.11" z="1060.91"/>
-		<pos x="9705.39" z="989.286"/>
-		<pos x="10323.5" z="970.739"/>
-		<pos x="11099.6" z="947.761"/>
-		<pos x="10787" z="2308.9"/>
-		<pos x="10862.3" z="2471.53"/>
-		<pos x="7018.58" z="1784.66"/>
-		<pos x="6962.98" z="1947.57"/>
-		<pos x="11079.4" z="1323.63"/>
-		<pos x="5864.18" z="362.694"/>
-		<pos x="4158.05" z="555.862"/>
-		<pos x="3693.04" z="652.218"/>
 		<pos x="7041.41" z="519.902"/>
 		<pos x="7274.06" z="774.439"/>
-		<pos x="10178.8" z="1287.85"/>
-		<pos x="10621.7" z="1716.67"/>
+        </group>
+        <group name="Coleman" lifetime="240" counter="-1">
+		<pos x="9466.11" z="1060.91"/>
+		<pos x="9705.39" z="989.286"/>
+        </group>
+        <group name="Troy" lifetime="240" counter="-1">
+		<pos x="10787" z="2308.9"/>
+		<pos x="10862.3" z="2471.53"/>
 		<pos x="10607.3" z="2379.96"/>
 		<pos x="10783.8" z="2642.34"/>
+        </group>
+        <group name="Junction" lifetime="240" counter="-1">
+		<pos x="7018.58" z="1784.66"/>
+		<pos x="6962.98" z="1947.57"/>
+		<pos x="6809.37" z="1779.68"/>
+        </group>
+        <group name="Tyler" lifetime="240" counter="-1">
+		<pos x="11099.6" z="947.761"/>
+		<pos x="11079.4" z="1323.63"/>
+		<pos x="10178.8" z="1287.85"/>
+		<pos x="10621.7" z="1716.67"/>
+		<pos x="10323.5" z="970.739"/>
+		<pos x="10376.2" z="1812.65"/>
+        </group>
+        <group name="Sefner" lifetime="240" counter="-1">
 		<pos x="10479.2" z="2827.28"/>
 		<pos x="10337.2" z="3090.79"/>
-		<pos x="6809.37" z="1779.68"/>
 		<pos x="10487.7" z="3033.52"/>
+        </group>
+        <group name="Milton" lifetime="240" counter="-1">
+		<pos x="4158.05" z="555.862"/>
+		<pos x="3693.04" z="652.218"/>
 		<pos x="3909.82" z="519.948"/>
-		<pos x="10376.2" z="1812.65"/>
+        </group>
         </generator_posbubbles>
     </fresh>
-    <hop>
-        <generator_posbubbles>
-        </generator_posbubbles>
-    </hop>
-    <travel>
-        <generator_posbubbles>
-        </generator_posbubbles>
-    </travel>
+    <!-- <hop> -->
+        <!-- <generator_posbubbles> -->
+        <!-- </generator_posbubbles> -->
+    <!-- </hop> -->
+    <!-- <travel> -->
+        <!-- <generator_posbubbles> -->
+        <!-- </generator_posbubbles> -->
+    <!-- </travel> -->
 </playerspawnpoints>

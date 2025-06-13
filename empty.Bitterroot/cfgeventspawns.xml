@@ -1,5 +1,40 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <eventposdef>
+	<event name="VehicleBoat">
+		<pos x="1613.13" z="9300.34" />
+		<pos x="1648.00" z="11769.00" />
+		<pos x="1797.00" z="11448.75" />
+		<pos x="1942.88" z="11938.13" />
+		<pos x="2073.37" z="11148.75" />
+		<pos x="2967.00" z="8655.00" />
+		<pos x="3771.00" z="7611.00" />
+		<pos x="3949.12" z="5355.75" />
+		<pos x="4866.00" z="6328.50" />
+		<pos x="5112.00" z="7041.75" />
+		<pos x="5451.75" z="5560.50" />
+		<pos x="5948.25" z="4619.25" />
+		<pos x="6872.63" z="11695.50" />
+		<pos x="7118.25" z="2797.50" />
+		<pos x="7322.25" z="3474.75" />
+		<pos x="8300.25" z="4908.38" />
+		<pos x="8306.25" z="1923.00" />
+		<pos x="8418.75" z="5670.00" />
+		<pos x="8536.50" z="4202.25" />
+		<pos x="8683.50" z="6381.00" />
+		<pos x="9228.75" z="10989.75" />
+		<pos x="9244.50" z="10990.50" />
+		<pos x="9273.75" z="1352.25" />
+		<pos x="9631.50" z="9775.88" />
+		<pos x="9773.25" z="5751.75" />
+		<pos x="9893.25" z="8782.13" />
+		<pos x="9802.50" z="8007.75" />
+		<pos x="9618.75" z="7323.75" />
+		<pos x="9135.75" z="6636.75" />
+		<pos x="8787.75" z="3782.25" />
+		<pos x="10275.00" z="1011.75" />
+		<pos x="10110.00" z="1200.38" />
+		<pos x="11261.25" z="1296.00" />
+	</event>
 	<event name="VehicleCivilianSedan">
 		<pos x="7534.94" y="248.288" z="470.087" a="-158.327"/>
 		<pos x="6134.94" y="334.53" z="454.778" a="84.0607"/>
@@ -65,41 +100,6 @@
 		<pos x="6811.81" y="285.812" z="11415.4" a="94.5572"/>
 		<pos x="9635.59" y="230.243" z="10090.7" a="-56.369"/>
 		<pos x="1759.53" y="215.294" z="8568.24" a="-174.625"/>
-	</event>
-	<event name="VehicleBoat">
-		<pos x="10275.00" z="1011.75" />
-		<pos x="9273.75" z="1352.25" />
-		<pos x="8306.25" z="1923.00" />
-		<pos x="7118.25" z="2797.50" />
-		<pos x="7322.25" z="3474.75" />
-		<pos x="5948.25" z="4619.25" />
-		<pos x="5451.75" z="5560.50" />
-		<pos x="4866.00" z="6328.50" />
-		<pos x="5112.00" z="7041.75" />
-		<pos x="3771.00" z="7611.00" />
-		<pos x="2967.00" z="8655.00" />
-		<pos x="1613.13" z="9300.34" />
-		<pos x="2073.37" z="11148.75" />
-		<pos x="1648.00" z="11769.00" />
-		<pos x="1797.00" z="11448.75" />
-		<pos x="1942.88" z="11938.13" />
-		<pos x="6872.63" z="11695.50" />
-		<pos x="9228.75" z="10989.75" />
-		<pos x="9631.50" z="9775.88" />
-		<pos x="9244.50" z="10990.50" />
-		<pos x="9893.25" z="8782.13" />
-		<pos x="9802.50" z="8007.75" />
-		<pos x="9618.75" z="7323.75" />
-		<pos x="9135.75" z="6636.75" />
-		<pos x="8683.50" z="6381.00" />
-		<pos x="8418.75" z="5670.00" />
-		<pos x="8300.25" z="4908.38" />
-		<pos x="8536.50" z="4202.25" />
-		<pos x="8787.75" z="3782.25" />
-		<pos x="10110.00" z="1200.38" />
-		<pos x="11261.25" z="1296.00" />
-		<pos x="9773.25" z="5751.75" />
-		<pos x="3949.12" z="5355.75" />
 	</event>
     <event name="StaticHeliCrash">
 		<zone smin="1" smax="3" dmin="3" dmax="5" r="45" />
@@ -323,9 +323,6 @@
 		<pos x="6446.03" y="234.89" z="6437.23" a="-30.9667"/>
 	</event>
 
-	<event name="AmbientFox" />
-	<event name="AmbientHare" />
-    <event name="VehicleTransitBus" />
     <event name="InfectedVillage" />
     <event name="InfectedSolitude" />
     <event name="InfectedArmy" />
@@ -334,6 +331,9 @@
     <event name="InfectedPolice" />
     <event name="InfectedFirefighter" />
     <event name="InfectedPrisoner" />
+	<event name="AmbientHen" />
+	<event name="AmbientFox" />
+	<event name="AmbientHare" />
     <event name="AnimalDeer" />
     <event name="AnimalCow" />
     <event name="AnimalSheep" />
@@ -342,6 +342,6 @@
     <event name="AnimalWildBoar" />
 	<!--Bitterroot Custom Items-->
 	<event name="AnimalBearBlack" />
-	<event name="MF_Moose" />
-	<event name="MF_MountainLion" />
+	<event name="AnimalMoose" />
+	<event name="AnimalMountainLion" />
 </eventposdef>

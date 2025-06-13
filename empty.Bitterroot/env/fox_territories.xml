@@ -1,124 +1,124 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <territory-type>
     <territory color="4294945280">
-        <zone name="Zone_fox" smin="0" smax="0" dmin="0" dmax="2" x="3702.86" z="8461.71" r="50"/>
-        <zone name="Zone_fox" smin="0" smax="0" dmin="0" dmax="2" x="1008" z="7906.29" r="50"/>
-        <zone name="Zone_fox" smin="0" smax="0" dmin="0" dmax="2" x="2293.71" z="9654.86" r="50"/>
-        <zone name="Zone_fox" smin="0" smax="0" dmin="0" dmax="2" x="3089.14" z="10865.1" r="50"/>
-        <zone name="Zone_fox" smin="0" smax="0" dmin="0" dmax="2" x="4803.43" z="11475.4" r="50"/>
-        <zone name="Zone_fox" smin="0" smax="0" dmin="0" dmax="2" x="5269.71" z="7165.71" r="50"/>
-        <zone name="Zone_fox" smin="0" smax="0" dmin="0" dmax="2" x="4450.29" z="6757.71" r="50"/>
-        <zone name="Zone_fox" smin="0" smax="0" dmin="0" dmax="2" x="4957.71" z="4419.43" r="50"/>
+        <zone name="Zone_fox" smin="0" smax="0" dmin="1" dmax="2" x="3702.86" z="8461.71" r="65"/>
+        <zone name="Zone_fox" smin="0" smax="0" dmin="1" dmax="2" x="1008" z="7906.29" r="65"/>
+        <zone name="Zone_fox" smin="0" smax="0" dmin="1" dmax="2" x="2293.71" z="9654.86" r="65"/>
+        <zone name="Zone_fox" smin="0" smax="0" dmin="1" dmax="2" x="3089.14" z="10865.1" r="65"/>
+        <zone name="Zone_fox" smin="0" smax="0" dmin="1" dmax="2" x="4803.43" z="11475.4" r="65"/>
+        <zone name="Zone_fox" smin="0" smax="0" dmin="1" dmax="2" x="5269.71" z="7165.71" r="65"/>
+        <zone name="Zone_fox" smin="0" smax="0" dmin="1" dmax="2" x="4450.29" z="6757.71" r="65"/>
+        <zone name="Zone_fox" smin="0" smax="0" dmin="1" dmax="2" x="4957.71" z="4419.43" r="65"/>
     </territory>
     <territory color="4294945280">
-        <zone name="Zone_fox" smin="0" smax="0" dmin="0" dmax="2" x="3740.57" z="2489.14" r="50"/>
-        <zone name="Zone_fox" smin="0" smax="0" dmin="0" dmax="2" x="3168" z="538.286" r="50"/>
-        <zone name="Zone_fox" smin="0" smax="0" dmin="0" dmax="2" x="1124.57" z="1189.71" r="50"/>
-        <zone name="Zone_fox" smin="0" smax="0" dmin="0" dmax="2" x="1210.29" z="2304" r="50"/>
-        <zone name="Zone_fox" smin="0" smax="0" dmin="0" dmax="2" x="857.143" z="4460.57" r="50"/>
-        <zone name="Zone_fox" smin="0" smax="0" dmin="0" dmax="2" x="822.857" z="5814.86" r="50"/>
-        <zone name="Zone_fox" smin="0" smax="0" dmin="0" dmax="2" x="973.714" z="6709.71" r="50"/>
-        <zone name="Zone_fox" smin="0" smax="0" dmin="0" dmax="2" x="1100.57" z="9195.43" r="50"/>
+        <zone name="Zone_fox" smin="0" smax="0" dmin="1" dmax="2" x="3740.57" z="2489.14" r="65"/>
+        <zone name="Zone_fox" smin="0" smax="0" dmin="1" dmax="2" x="3168" z="538.286" r="65"/>
+        <zone name="Zone_fox" smin="0" smax="0" dmin="1" dmax="2" x="1124.57" z="1189.71" r="65"/>
+        <zone name="Zone_fox" smin="0" smax="0" dmin="1" dmax="2" x="1210.29" z="2304" r="65"/>
+        <zone name="Zone_fox" smin="0" smax="0" dmin="1" dmax="2" x="857.143" z="4460.57" r="65"/>
+        <zone name="Zone_fox" smin="0" smax="0" dmin="1" dmax="2" x="822.857" z="5814.86" r="65"/>
+        <zone name="Zone_fox" smin="0" smax="0" dmin="1" dmax="2" x="973.714" z="6709.71" r="65"/>
+        <zone name="Zone_fox" smin="0" smax="0" dmin="1" dmax="2" x="1100.57" z="9195.43" r="65"/>
     </territory>
     <territory color="4294945280">
-        <zone name="Zone_fox" smin="0" smax="0" dmin="0" dmax="2" x="1189.71" z="11266.3" r="50"/>
-        <zone name="Zone_fox" smin="0" smax="0" dmin="0" dmax="2" x="1909.71" z="11965.7" r="50"/>
-        <zone name="Zone_fox" smin="0" smax="0" dmin="0" dmax="2" x="2468.57" z="11660.6" r="50"/>
-        <zone name="Zone_fox" smin="0" smax="0" dmin="0" dmax="2" x="3898.29" z="12010.3" r="50"/>
-        <zone name="Zone_fox" smin="0" smax="0" dmin="0" dmax="2" x="4309.71" z="10796.6" r="50"/>
-        <zone name="Zone_fox" smin="0" smax="0" dmin="0" dmax="2" x="4488" z="9360" r="50"/>
-        <zone name="Zone_fox" smin="0" smax="0" dmin="0" dmax="2" x="4926.86" z="9233.14" r="50"/>
-        <zone name="Zone_fox" smin="0" smax="0" dmin="0" dmax="2" x="5094.86" z="10916.6" r="50"/>
-        <zone name="Zone_fox" smin="0" smax="0" dmin="0" dmax="2" x="7086.86" z="11242.3" r="50"/>
-        <zone name="Zone_fox" smin="0" smax="0" dmin="0" dmax="2" x="6336" z="10254.9" r="50"/>
+        <zone name="Zone_fox" smin="0" smax="0" dmin="1" dmax="2" x="1189.71" z="11266.3" r="65"/>
+        <zone name="Zone_fox" smin="0" smax="0" dmin="1" dmax="2" x="1909.71" z="11965.7" r="65"/>
+        <zone name="Zone_fox" smin="0" smax="0" dmin="1" dmax="2" x="2468.57" z="11660.6" r="65"/>
+        <zone name="Zone_fox" smin="0" smax="0" dmin="1" dmax="2" x="3898.29" z="12010.3" r="65"/>
+        <zone name="Zone_fox" smin="0" smax="0" dmin="1" dmax="2" x="4309.71" z="10796.6" r="65"/>
+        <zone name="Zone_fox" smin="0" smax="0" dmin="1" dmax="2" x="4488" z="9360" r="65"/>
+        <zone name="Zone_fox" smin="0" smax="0" dmin="1" dmax="2" x="4926.86" z="9233.14" r="65"/>
+        <zone name="Zone_fox" smin="0" smax="0" dmin="1" dmax="2" x="5094.86" z="10916.6" r="65"/>
+        <zone name="Zone_fox" smin="0" smax="0" dmin="1" dmax="2" x="7086.86" z="11242.3" r="65"/>
+        <zone name="Zone_fox" smin="0" smax="0" dmin="1" dmax="2" x="6336" z="10254.9" r="65"/>
     </territory>
     <territory color="4294945280">
-        <zone name="Zone_fox" smin="0" smax="0" dmin="0" dmax="2" x="6360" z="8962.29" r="50"/>
-        <zone name="Zone_fox" smin="0" smax="0" dmin="0" dmax="2" x="6195.43" z="8585.14" r="50"/>
-        <zone name="Zone_fox" smin="0" smax="0" dmin="0" dmax="2" x="7782.86" z="11732.6" r="50"/>
-        <zone name="Zone_fox" smin="0" smax="0" dmin="0" dmax="2" x="8509.71" z="11485.7" r="50"/>
-        <zone name="Zone_fox" smin="0" smax="0" dmin="0" dmax="2" x="8993.14" z="10457.1" r="50"/>
+        <zone name="Zone_fox" smin="0" smax="0" dmin="1" dmax="2" x="6360" z="8962.29" r="65"/>
+        <zone name="Zone_fox" smin="0" smax="0" dmin="1" dmax="2" x="6195.43" z="8585.14" r="65"/>
+        <zone name="Zone_fox" smin="0" smax="0" dmin="1" dmax="2" x="7782.86" z="11732.6" r="65"/>
+        <zone name="Zone_fox" smin="0" smax="0" dmin="1" dmax="2" x="8509.71" z="11485.7" r="65"/>
+        <zone name="Zone_fox" smin="0" smax="0" dmin="1" dmax="2" x="8993.14" z="10457.1" r="65"/>
     </territory>
     <territory color="4294945280">
-        <zone name="Zone_fox" smin="0" smax="0" dmin="0" dmax="2" x="9822.86" z="9541.71" r="50"/>
-        <zone name="Zone_fox" smin="0" smax="0" dmin="0" dmax="2" x="10525.7" z="11273.1" r="50"/>
-        <zone name="Zone_fox" smin="0" smax="0" dmin="0" dmax="2" x="11465.1" z="11595.4" r="50"/>
-        <zone name="Zone_fox" smin="0" smax="0" dmin="0" dmax="2" x="11112" z="12161.1" r="50"/>
-        <zone name="Zone_fox" smin="0" smax="0" dmin="0" dmax="2" x="11818.3" z="8705.14" r="50"/>
+        <zone name="Zone_fox" smin="0" smax="0" dmin="1" dmax="2" x="9822.86" z="9541.71" r="65"/>
+        <zone name="Zone_fox" smin="0" smax="0" dmin="1" dmax="2" x="10525.7" z="11273.1" r="65"/>
+        <zone name="Zone_fox" smin="0" smax="0" dmin="1" dmax="2" x="11465.1" z="11595.4" r="65"/>
+        <zone name="Zone_fox" smin="0" smax="0" dmin="1" dmax="2" x="11112" z="12161.1" r="65"/>
+        <zone name="Zone_fox" smin="0" smax="0" dmin="1" dmax="2" x="11818.3" z="8705.14" r="65"/>
     </territory>
     <territory color="4294945280">
-        <zone name="Zone_fox" smin="0" smax="0" dmin="0" dmax="2" x="10758.9" z="7302.86" r="50"/>
-        <zone name="Zone_fox" smin="0" smax="0" dmin="0" dmax="2" x="11612.6" z="6771.43" r="50"/>
-        <zone name="Zone_fox" smin="0" smax="0" dmin="0" dmax="2" x="11214.9" z="4234.29" r="50"/>
-        <zone name="Zone_fox" smin="0" smax="0" dmin="0" dmax="2" x="9493.71" z="4292.57" r="50"/>
-        <zone name="Zone_fox" smin="0" smax="0" dmin="0" dmax="2" x="8204.57" z="4628.57" r="50"/>
-        <zone name="Zone_fox" smin="0" smax="0" dmin="0" dmax="2" x="7488" z="5331.43" r="50"/>
+        <zone name="Zone_fox" smin="0" smax="0" dmin="1" dmax="2" x="10758.9" z="7302.86" r="65"/>
+        <zone name="Zone_fox" smin="0" smax="0" dmin="1" dmax="2" x="11612.6" z="6771.43" r="65"/>
+        <zone name="Zone_fox" smin="0" smax="0" dmin="1" dmax="2" x="11214.9" z="4234.29" r="65"/>
+        <zone name="Zone_fox" smin="0" smax="0" dmin="1" dmax="2" x="9493.71" z="4292.57" r="65"/>
+        <zone name="Zone_fox" smin="0" smax="0" dmin="1" dmax="2" x="8204.57" z="4628.57" r="65"/>
+        <zone name="Zone_fox" smin="0" smax="0" dmin="1" dmax="2" x="7488" z="5331.43" r="65"/>
     </territory>
     <territory color="4294945280">
-        <zone name="Zone_fox" smin="0" smax="0" dmin="0" dmax="2" x="7152" z="6102.86" r="50"/>
-        <zone name="Zone_fox" smin="0" smax="0" dmin="0" dmax="2" x="7745.14" z="3822.86" r="50"/>
-        <zone name="Zone_fox" smin="0" smax="0" dmin="0" dmax="2" x="6504" z="3552" r="50"/>
-        <zone name="Zone_fox" smin="0" smax="0" dmin="0" dmax="2" x="6336" z="3020.57" r="50"/>
-        <zone name="Zone_fox" smin="0" smax="0" dmin="0" dmax="2" x="5907.43" z="3552" r="50"/>
-        <zone name="Zone_fox" smin="0" smax="0" dmin="0" dmax="2" x="7820.57" z="1779.43" r="50"/>
-        <zone name="Zone_fox" smin="0" smax="0" dmin="0" dmax="2" x="7124.57" z="901.714" r="50"/>
+        <zone name="Zone_fox" smin="0" smax="0" dmin="1" dmax="2" x="7152" z="6102.86" r="65"/>
+        <zone name="Zone_fox" smin="0" smax="0" dmin="1" dmax="2" x="7745.14" z="3822.86" r="65"/>
+        <zone name="Zone_fox" smin="0" smax="0" dmin="1" dmax="2" x="6504" z="3552" r="65"/>
+        <zone name="Zone_fox" smin="0" smax="0" dmin="1" dmax="2" x="6336" z="3020.57" r="65"/>
+        <zone name="Zone_fox" smin="0" smax="0" dmin="1" dmax="2" x="5907.43" z="3552" r="65"/>
+        <zone name="Zone_fox" smin="0" smax="0" dmin="1" dmax="2" x="7820.57" z="1779.43" r="65"/>
+        <zone name="Zone_fox" smin="0" smax="0" dmin="1" dmax="2" x="7124.57" z="901.714" r="65"/>
     </territory>
     <territory color="4294945280">
-        <zone name="Zone_fox" smin="0" smax="0" dmin="0" dmax="2" x="8022.86" z="490.286" r="50"/>
-        <zone name="Zone_fox" smin="0" smax="0" dmin="0" dmax="2" x="8468.57" z="1621.71" r="50"/>
-        <zone name="Zone_fox" smin="0" smax="0" dmin="0" dmax="2" x="10512" z="699.429" r="50"/>
-        <zone name="Zone_fox" smin="0" smax="0" dmin="0" dmax="2" x="11454.9" z="1227.43" r="50"/>
-        <zone name="Zone_fox" smin="0" smax="0" dmin="0" dmax="2" x="10464" z="2478.86" r="50"/>
-        <zone name="Zone_fox" smin="0" smax="0" dmin="0" dmax="2" x="10141.7" z="3438.86" r="50"/>
-        <zone name="Zone_fox" smin="0" smax="0" dmin="0" dmax="2" x="10669.7" z="5406.86" r="50"/>
-        <zone name="Zone_fox" smin="0" smax="0" dmin="0" dmax="2" x="12000" z="5880" r="50"/>
-        <zone name="Zone_fox" smin="0" smax="0" dmin="0" dmax="2" x="11845.7" z="2465.14" r="50"/>
+        <zone name="Zone_fox" smin="0" smax="0" dmin="1" dmax="2" x="8022.86" z="490.286" r="65"/>
+        <zone name="Zone_fox" smin="0" smax="0" dmin="1" dmax="2" x="8468.57" z="1621.71" r="65"/>
+        <zone name="Zone_fox" smin="0" smax="0" dmin="1" dmax="2" x="10512" z="699.429" r="65"/>
+        <zone name="Zone_fox" smin="0" smax="0" dmin="1" dmax="2" x="11454.9" z="1227.43" r="65"/>
+        <zone name="Zone_fox" smin="0" smax="0" dmin="1" dmax="2" x="10464" z="2478.86" r="65"/>
+        <zone name="Zone_fox" smin="0" smax="0" dmin="1" dmax="2" x="10141.7" z="3438.86" r="65"/>
+        <zone name="Zone_fox" smin="0" smax="0" dmin="1" dmax="2" x="10669.7" z="5406.86" r="65"/>
+        <zone name="Zone_fox" smin="0" smax="0" dmin="1" dmax="2" x="12000" z="5880" r="65"/>
+        <zone name="Zone_fox" smin="0" smax="0" dmin="1" dmax="2" x="11845.7" z="2465.14" r="65"/>
     </territory>
     <territory color="4294945280">
-        <zone name="Zone_fox" smin="0" smax="0" dmin="0" dmax="2" x="10268.6" z="284.571" r="50"/>
-        <zone name="Zone_fox" smin="0" smax="0" dmin="0" dmax="2" x="5619.43" z="857.143" r="50"/>
-        <zone name="Zone_fox" smin="0" smax="0" dmin="0" dmax="2" x="5232" z="3291.43" r="50"/>
-        <zone name="Zone_fox" smin="0" smax="0" dmin="0" dmax="2" x="4220.57" z="2561.14" r="50"/>
-        <zone name="Zone_fox" smin="0" smax="0" dmin="0" dmax="2" x="2478.86" z="246.857" r="50"/>
+        <zone name="Zone_fox" smin="0" smax="0" dmin="1" dmax="2" x="10268.6" z="284.571" r="65"/>
+        <zone name="Zone_fox" smin="0" smax="0" dmin="1" dmax="2" x="5619.43" z="857.143" r="65"/>
+        <zone name="Zone_fox" smin="0" smax="0" dmin="1" dmax="2" x="5232" z="3291.43" r="65"/>
+        <zone name="Zone_fox" smin="0" smax="0" dmin="1" dmax="2" x="4220.57" z="2561.14" r="65"/>
+        <zone name="Zone_fox" smin="0" smax="0" dmin="1" dmax="2" x="2478.86" z="246.857" r="65"/>
     </territory>
     <territory color="4294945280">
-        <zone name="Zone_fox" smin="0" smax="0" dmin="0" dmax="2" x="459.429" z="3476.57" r="50"/>
-        <zone name="Zone_fox" smin="0" smax="0" dmin="0" dmax="2" x="1686.86" z="4669.71" r="50"/>
-        <zone name="Zone_fox" smin="0" smax="0" dmin="0" dmax="2" x="274.286" z="5300.57" r="50"/>
-        <zone name="Zone_fox" smin="0" smax="0" dmin="0" dmax="2" x="353.143" z="7947.43" r="50"/>
-        <zone name="Zone_fox" smin="0" smax="0" dmin="0" dmax="2" x="476.571" z="10813.7" r="50"/>
+        <zone name="Zone_fox" smin="0" smax="0" dmin="1" dmax="2" x="459.429" z="3476.57" r="65"/>
+        <zone name="Zone_fox" smin="0" smax="0" dmin="1" dmax="2" x="1686.86" z="4669.71" r="65"/>
+        <zone name="Zone_fox" smin="0" smax="0" dmin="1" dmax="2" x="274.286" z="5300.57" r="65"/>
+        <zone name="Zone_fox" smin="0" smax="0" dmin="1" dmax="2" x="353.143" z="7947.43" r="65"/>
+        <zone name="Zone_fox" smin="0" smax="0" dmin="1" dmax="2" x="476.571" z="10813.7" r="65"/>
     </territory>
     <territory color="4294945280">
-        <zone name="Zone_fox" smin="0" smax="0" dmin="0" dmax="2" x="737.143" z="12113.1" r="50"/>
-        <zone name="Zone_fox" smin="0" smax="0" dmin="0" dmax="2" x="3726.86" z="9408" r="50"/>
-        <zone name="Zone_fox" smin="0" smax="0" dmin="0" dmax="2" x="2420.57" z="8650.29" r="50"/>
-        <zone name="Zone_fox" smin="0" smax="0" dmin="0" dmax="2" x="2598.86" z="6953.14" r="50"/>
-        <zone name="Zone_fox" smin="0" smax="0" dmin="0" dmax="2" x="3672" z="7765.71" r="50"/>
-        <zone name="Zone_fox" smin="0" smax="0" dmin="0" dmax="2" x="1769.14" z="8173.71" r="50"/>
-        <zone name="Zone_fox" smin="0" smax="0" dmin="0" dmax="2" x="4313.14" z="8101.71" r="50"/>
+        <zone name="Zone_fox" smin="0" smax="0" dmin="1" dmax="2" x="737.143" z="12113.1" r="65"/>
+        <zone name="Zone_fox" smin="0" smax="0" dmin="1" dmax="2" x="3726.86" z="9408" r="65"/>
+        <zone name="Zone_fox" smin="0" smax="0" dmin="1" dmax="2" x="2420.57" z="8650.29" r="65"/>
+        <zone name="Zone_fox" smin="0" smax="0" dmin="1" dmax="2" x="2598.86" z="6953.14" r="65"/>
+        <zone name="Zone_fox" smin="0" smax="0" dmin="1" dmax="2" x="3672" z="7765.71" r="65"/>
+        <zone name="Zone_fox" smin="0" smax="0" dmin="1" dmax="2" x="1769.14" z="8173.71" r="65"/>
+        <zone name="Zone_fox" smin="0" smax="0" dmin="1" dmax="2" x="4313.14" z="8101.71" r="65"/>
     </territory>
     <territory color="4294945280">
-        <zone name="Zone_fox" smin="0" smax="0" dmin="0" dmax="2" x="6726.86" z="6305.14" r="50"/>
-        <zone name="Zone_fox" smin="0" smax="0" dmin="0" dmax="2" x="6517.71" z="7008" r="50"/>
-        <zone name="Zone_fox" smin="0" smax="0" dmin="0" dmax="2" x="5804.57" z="6754.29" r="50"/>
-        <zone name="Zone_fox" smin="0" smax="0" dmin="0" dmax="2" x="5592" z="4717.71" r="50"/>
-        <zone name="Zone_fox" smin="0" smax="0" dmin="0" dmax="2" x="7464" z="4697.14" r="50"/>
-        <zone name="Zone_fox" smin="0" smax="0" dmin="0" dmax="2" x="7632" z="4395.43" r="50"/>
-        <zone name="Zone_fox" smin="0" smax="0" dmin="0" dmax="2" x="7371.43" z="2653.71" r="50"/>
+        <zone name="Zone_fox" smin="0" smax="0" dmin="1" dmax="2" x="6726.86" z="6305.14" r="65"/>
+        <zone name="Zone_fox" smin="0" smax="0" dmin="1" dmax="2" x="6517.71" z="7008" r="65"/>
+        <zone name="Zone_fox" smin="0" smax="0" dmin="1" dmax="2" x="5804.57" z="6754.29" r="65"/>
+        <zone name="Zone_fox" smin="0" smax="0" dmin="1" dmax="2" x="5592" z="4717.71" r="65"/>
+        <zone name="Zone_fox" smin="0" smax="0" dmin="1" dmax="2" x="7464" z="4697.14" r="65"/>
+        <zone name="Zone_fox" smin="0" smax="0" dmin="1" dmax="2" x="7632" z="4395.43" r="65"/>
+        <zone name="Zone_fox" smin="0" smax="0" dmin="1" dmax="2" x="7371.43" z="2653.71" r="65"/>
     </territory>
     <territory color="4294945280">
-        <zone name="Zone_fox" smin="0" smax="0" dmin="0" dmax="2" x="6267.43" z="1134.86" r="50"/>
-        <zone name="Zone_fox" smin="0" smax="0" dmin="0" dmax="2" x="8489.14" z="2328" r="50"/>
-        <zone name="Zone_fox" smin="0" smax="0" dmin="0" dmax="2" x="9486.86" z="7512" r="50"/>
-        <zone name="Zone_fox" smin="0" smax="0" dmin="0" dmax="2" x="8245.71" z="7553.14" r="50"/>
-        <zone name="Zone_fox" smin="0" smax="0" dmin="0" dmax="2" x="7433.14" z="9507.43" r="50"/>
+        <zone name="Zone_fox" smin="0" smax="0" dmin="1" dmax="2" x="6267.43" z="1134.86" r="65"/>
+        <zone name="Zone_fox" smin="0" smax="0" dmin="1" dmax="2" x="8489.14" z="2328" r="65"/>
+        <zone name="Zone_fox" smin="0" smax="0" dmin="1" dmax="2" x="9486.86" z="7512" r="65"/>
+        <zone name="Zone_fox" smin="0" smax="0" dmin="1" dmax="2" x="8245.71" z="7553.14" r="65"/>
+        <zone name="Zone_fox" smin="0" smax="0" dmin="1" dmax="2" x="7433.14" z="9507.43" r="65"/>
     </territory>
     <territory color="4294945280">
-        <zone name="Zone_fox" smin="0" smax="0" dmin="0" dmax="2" x="10854.9" z="10587.4" r="50"/>
-        <zone name="Zone_fox" smin="0" smax="0" dmin="0" dmax="2" x="12041.1" z="9946.29" r="50"/>
-        <zone name="Zone_fox" smin="0" smax="0" dmin="0" dmax="2" x="11876.6" z="10998.9" r="50"/>
-        <zone name="Zone_fox" smin="0" smax="0" dmin="0" dmax="2" x="6648" z="7824" r="50"/>
-        <zone name="Zone_fox" smin="0" smax="0" dmin="0" dmax="2" x="9372" z="11820" r="50"/>
-        <zone name="Zone_fox" smin="0" smax="0" dmin="0" dmax="2" x="5604" z="11304" r="50"/>
+        <zone name="Zone_fox" smin="0" smax="0" dmin="1" dmax="2" x="10854.9" z="10587.4" r="65"/>
+        <zone name="Zone_fox" smin="0" smax="0" dmin="1" dmax="2" x="12041.1" z="9946.29" r="65"/>
+        <zone name="Zone_fox" smin="0" smax="0" dmin="1" dmax="2" x="11876.6" z="10998.9" r="65"/>
+        <zone name="Zone_fox" smin="0" smax="0" dmin="1" dmax="2" x="6648" z="7824" r="65"/>
+        <zone name="Zone_fox" smin="0" smax="0" dmin="1" dmax="2" x="9372" z="11820" r="65"/>
+        <zone name="Zone_fox" smin="0" smax="0" dmin="1" dmax="2" x="5604" z="11304" r="65"/>
     </territory>
 </territory-type>

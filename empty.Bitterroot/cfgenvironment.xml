@@ -3,7 +3,6 @@
 
 	<!-- GENERAL Territories Section -->
 	<territories>
-
 		<file path="env/cattle_territories.xml" />
 		<file path="env/red_deer_territories.xml" />
 		<file path="env/roe_deer_territories.xml" />
@@ -56,7 +55,7 @@
 		<territory type="Herd" name="BearBlack" behavior="BlissBearGroupBeh">
 			<file usable="BearBlack_territories"/>
 		</territory>
-
+		
 		<!-- HEN -->
 		<territory type="Ambient" name="AmbientHen" behavior="DZAmbientLifeGroupBeh">
 			<file usable="hen_territories" />
@@ -72,11 +71,12 @@
 
 			<item name="globalCountMax" val="50" />
 			<item name="zoneCountMin" val="1" />
-			<item name="zoneCountMax" val="1" />
-			<item name="playerSpawnRadiusNear" val="25" />
-			<item name="playerSpawnRadiusFar" val="75" />
+			<item name="zoneCountMax" val="2" />
+			<item name="playerSpawnRadiusNear" val="20" />
+			<item name="playerSpawnRadiusFar" val="85" />
 		</territory>
-
+		
+			
 		<!-- HARE -->
 		<territory type="Ambient" name="AmbientHare" behavior="DZAmbientLifeGroupBeh">
 			<file usable="hare_territories" />
@@ -87,7 +87,7 @@
 			<agent type="Female" chance="1">
 				<spawn configName="Animal_LepusEuropaeus" chance="1" />
 			</agent>
-			<item name="zoneTouchDisableEditPeriodSec" val="250" />
+			<item name="zoneTouchDisableEditPeriodSec" val="30" />
 		</territory>
 		
 		<!-- FOX -->
@@ -97,11 +97,14 @@
 			<agent type="Male" chance="1">
 				<spawn configName="Animal_VulpesVulpes" chance="1" />
 			</agent>
-			<agent type="Female" chance="1">
+			
+			<agent type="Female" chance="0">
 				<spawn configName="Animal_VulpesVulpes" chance="1" />
 			</agent>
-			<item name="zoneTouchDisableEditPeriodSec" val="325" />
+			<item name="zoneTouchDisableEditPeriodSec" val="30" />
 		</territory>
+		
+		
 		
 		<!-- INFECTED -->
 		<territory type="Herd" name="ZombieTest" behavior="DZdomesticGroupBeh">

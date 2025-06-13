@@ -362,7 +362,7 @@
         <nominal>75</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>40</min>
+        <min>20</min>
         <quantmin>0</quantmin>
         <quantmax>0</quantmax>
         <cost>100</cost>
@@ -436,6 +436,9 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
+        <tag name="floor"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
     </type>
     <type name="NBCHoodWhite">
         <nominal>2</nominal>
@@ -447,6 +450,10 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
+        <tag name="floor"/>
+        <usage name="Military"/>
+		<value name="Tier3"/>
+        <value name="Tier4"/>
     </type>
     <type name="NBCJacketWhite">
         <nominal>2</nominal>
@@ -458,6 +465,10 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
+        <tag name="floor"/>
+        <usage name="Military"/>
+		<value name="Tier3"/>
+        <value name="Tier4"/>
     </type>
     <type name="NBCPantsWhite">
         <nominal>2</nominal>
@@ -469,6 +480,9 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
+        <tag name="floor"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
     </type>
     <type name="NavyUniformJacket">
         <nominal>0</nominal>
