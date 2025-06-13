@@ -2829,6 +2829,26 @@
 	</type>
 	
 	<!-- VEHICLES -->
+	<type name="Boat_01_Black">
+		<attachments chance="0.10">
+			<item name="SparkPlug" chance="1.0" />
+		</attachments>
+	</type>
+	<type name="Boat_01_Blue">
+		<attachments chance="0.10">
+			<item name="SparkPlug" chance="1.0" />
+		</attachments>
+	</type>
+	<type name="Boat_01_Camo">
+		<attachments chance="0.10">
+			<item name="SparkPlug" chance="1.0" />
+		</attachments>
+	</type>
+	<type name="Boat_01_Orange">
+		<attachments chance="0.10">
+			<item name="SparkPlug" chance="1.0" />
+		</attachments>
+	</type>
 	<type name="OffroadHatchback">
 		<attachments chance="1.00">
 			<item name="HatchbackWheel" chance="0.80" />
@@ -4288,73 +4308,4 @@
 	<type name="MF_KeyCard">
         <damage min="0.05" max="0.45" />
     </type>
-	<!--GolfCart Mod-->
-	<type name="Golf_Kart">
-		<attachments chance="1.00">
-			<item name="TruckBattery" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="Golf_KartWheel" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="Golf_KartWheel" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="Golf_KartWheel" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="Golf_KartWheel" chance="1.00" />
-		</attachments>
-	</type>
-	<type name="GolfCart_red">
-		<attachments chance="1.00">
-			<item name="TruckBattery" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="GolfCart_wheel" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="GolfCart_wheel" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="GolfCart_wheel" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="GolfCart_wheel" chance="1.00" />
-		</attachments>
-	</type>
-	<type name="GolfCart_blue">
-		<attachments chance="1.00">
-			<item name="TruckBattery" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="GolfCart_wheel" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="GolfCart_wheel" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="GolfCart_wheel" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="GolfCart_wheel" chance="1.00" />
-		</attachments>
-	</type>
-	<type name="GolfCart_beige">
-		<attachments chance="1.00">
-			<item name="TruckBattery" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="GolfCart_wheel" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="GolfCart_wheel" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="GolfCart_wheel" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="GolfCart_wheel" chance="1.00" />
-		</attachments>
-	</type>
 </spawnabletypes>
