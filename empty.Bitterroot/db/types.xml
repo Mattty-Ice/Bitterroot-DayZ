@@ -1,6 +1,3 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<!--This file is completely optimzed to suit vanilla Bitterroot. Some of the vanilla items are zeroed out if they do not fit the American setting. You will find these items at the bottom of the file.-->
-<!--All custom Bitterroot items can be found at the bottom of this file.-->
 <types>
     <type name="ACOGOptic">
         <nominal>10</nominal>
@@ -5344,10 +5341,10 @@
         <usage name="Military"/>
     </type>
     <type name="CombinationLock">
-        <nominal>0</nominal>
+        <nominal>60</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>40</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5357,10 +5354,10 @@
         <usage name="Farm"/>
     </type>
     <type name="CombinationLock4">
-        <nominal>0</nominal>
+        <nominal>40</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -6821,7 +6818,7 @@
     </type>
     <type name="FenceKit">
         <nominal>0</nominal>
-        <lifetime>3</lifetime>
+        <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -12763,10 +12760,10 @@
         <value name="Tier4"/>
     </type>
     <type name="MetalPlate">
-        <nominal>0</nominal>
+        <nominal>40</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>20</min>
         <quantmin>10</quantmin>
         <quantmax>60</quantmax>
         <cost>100</cost>
@@ -13632,10 +13629,10 @@
         <category name="tools"/>
     </type>
     <type name="NailBox">
-        <nominal>5</nominal>
+        <nominal>80</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>60</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -14625,10 +14622,10 @@
         <category name="food"/>
     </type>
     <type name="PileOfWoodenPlanks">
-        <nominal>0</nominal>
+        <nominal>40</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -14990,10 +14987,10 @@
         <category name="food"/>
     </type>
     <type name="Pliers">
-        <nominal>0</nominal>
+        <nominal>70</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>50</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -17832,10 +17829,10 @@
         <usage name="School"/>
     </type>
     <type name="Spotlight">
-        <nominal>30</nominal>
+        <nominal>40</nominal>
         <lifetime>604800</lifetime>
         <restock>0</restock>
-        <min>14</min>
+        <min>25</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
