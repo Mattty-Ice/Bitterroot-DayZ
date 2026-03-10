@@ -935,9 +935,9 @@
         </children>
     </event>
     <event name="VehicleBoat">
-        <nominal>12</nominal>
-        <min>10</min>
-        <max>15</max>
+        <nominal>5</nominal>
+        <min>3</min>
+        <max>6</max>
         <lifetime>86400</lifetime>
         <restock>0</restock>
         <saferadius>500</saferadius>
@@ -1250,7 +1250,7 @@
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>fixed</position>
         <limit>mixed</limit>
-        <active>1</active>
+        <active>0</active>
         <children>
             <child lootmax="0" lootmin="0" max="4" min="2" type="Golf_Kart"/>
         </children>
