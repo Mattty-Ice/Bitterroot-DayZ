@@ -35,12 +35,39 @@
         <!-- What range of the overcast value allows the rain to be preset (min, max overcast value, time in seconds it takes for rain to stop if the overcast is outside of the specified range) -->
         <thresholds min="0.6" max="1.0" end="120" />
     </rain>
-    <wind>
-        <!-- Maximum wind speed (in m/s) -->
-        <maxspeed>6</maxspeed>
-        <!-- Min and max (relative 0..1) for the wind speed range, frequency of the wind changes -->
-        <params min="0.0" max="1.0" frequency="30" />
-    </wind>
+    <windMagnitude>
+        <!-- Initial conditions of the wind magnitude (target value, time to change, how long will it stay), restricted by thresholds (see below) -->
+        <current actual="3.0" time="120" duration="240" />
+        <!-- What is the range of the wind magnitude value in m/s -->
+        <limit min="0.0" max="6.0" />
+        <!-- How long does it take to the wind magnitude to change from one value to other (time in seconds) -->
+        <timelimits min="120" max="240" />
+        <!-- How much should the wind change -->
+        <changelimits min="0.0" max="6.0" />
+    </windMagnitude>
+    <windDirection>
+        <!-- Initial conditions of the wind direction(target value, time to change, how long will it stay), restricted by thresholds (see below) -->
+        <current actual="0.0" time="120" duration="240" />
+        <!-- What is the range of the wind direction (angle in radians) -->
+        <limit min="-3.14" max="3.14" />
+        <!-- How long does it take to the wind direction to change from one value to other (time in seconds) -->
+        <timelimits min="60" max="120" />
+        <!-- How much should the wind change direction -->
+        <changelimits min="-1.0" max="1.0" />
+    </windDirection>
+    <!-- Snowfall should always remain at 0 for this world. -->
+    <snowfall>
+        <!-- Initial conditions of the snowfall (target value, time to change, how long will it stay), restricted by thresholds (see below) -->
+        <current actual="0.0" time="0" duration="32768" />
+        <!-- What is the range of the snowfall value (0..1) -->
+        <limit min="0.0" max="0.0" />
+        <!-- How long does it take to the snowfall to change from one value to other (time in seconds) -->
+        <timelimits min="300" max="3600" />
+        <!-- How much should the snowfall change (0..1) -->
+        <changelimits min="0.0" max="0.0" />
+        <!-- What range of the overcast value allows the snowfall to be preset (min, max overcast value, time in seconds it takes for snowfall to stop if the overcast is outside of the specified range) -->
+        <thresholds min="1.0" max="1.0" end="120" />
+    </snowfall>
     <!-- Lightning density (0..1), threshold for the lightning appearance (tied to the overcast value, 0..1), time (seconds) between the lightning strikes -->
     <storm density="1.0" threshold="0.7" timeout="25"/>
 </weather>
