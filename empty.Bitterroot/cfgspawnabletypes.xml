@@ -4308,4 +4308,121 @@
 	<type name="MF_KeyCard">
         <damage min="0.05" max="0.45" />
     </type>
+	
+	
+	<!-- 1.30 Motorbikes -->
+	
+	<type name="Motorbike_01_Blue">
+		<attachments chance="0.30">
+			<item name="SparkPlug" chance="1.0" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Motorbike_01_Wheel_1" chance="1.0" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Motorbike_01_Wheel_2" chance="1.0" />
+		</attachments>
+	</type>
+	<type name="Motorbike_01_Red">
+		<attachments chance="0.30">
+			<item name="SparkPlug" chance="1.0" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Motorbike_01_Wheel_1" chance="1.0" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Motorbike_01_Wheel_2" chance="1.0" />
+		</attachments>
+	</type>
+	<type name="Motorbike_01_Yellow">
+		<attachments chance="0.30">
+			<item name="SparkPlug" chance="1.0" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Motorbike_01_Wheel_1" chance="1.0" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Motorbike_01_Wheel_2" chance="1.0" />
+		</attachments>
+	</type>
+	<type name="Motorbike_02_Red">
+		<attachments chance="0.30">
+			<item name="SparkPlug" chance="1.0" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Motorbike_02_Wheel_1" chance="1.0" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Motorbike_02_Wheel_2" chance="1.0" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Motorbike_02_ShieldFront_Red" chance="1.0" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Motorbike_02_ShieldLeft_Red" chance="1.0" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Motorbike_02_ShieldRight_Red" chance="1.0" />
+		</attachments>
+	</type>
+	<type name="Motorbike_02_Green">
+		<attachments chance="0.30">
+			<item name="SparkPlug" chance="1.0" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Motorbike_02_Wheel_1" chance="1.0" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Motorbike_02_Wheel_2" chance="1.0" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Motorbike_02_ShieldFront_Green" chance="1.0" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Motorbike_02_ShieldLeft_Green" chance="1.0" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Motorbike_02_ShieldRight_Green" chance="1.0" />
+		</attachments>
+	</type>
+	<type name="Motorbike_02_Blue">
+		<attachments chance="0.30">
+			<item name="SparkPlug" chance="1.0" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Motorbike_02_Wheel_1" chance="1.0" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Motorbike_02_Wheel_2" chance="1.0" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Motorbike_02_ShieldFront_Blue" chance="1.0" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Motorbike_02_ShieldLeft_Blue" chance="1.0" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Motorbike_02_ShieldRight_Blue" chance="1.0" />
+		</attachments>
+	</type>
+	<type name="Motorbike_02_Yellow">
+		<attachments chance="0.30">
+			<item name="SparkPlug" chance="1.0" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Motorbike_02_Wheel_1" chance="1.0" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Motorbike_02_Wheel_2" chance="1.0" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Motorbike_02_ShieldFront_Yellow" chance="1.0" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Motorbike_02_ShieldLeft_Yellow" chance="1.0" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Motorbike_02_ShieldRight_Yellow" chance="1.0" />
+		</attachments>
+	</type>
 </spawnabletypes>
